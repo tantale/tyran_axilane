@@ -73,7 +73,7 @@ def convert_word_break(content):
     return _sub_word_break(del_hyphen, content)
 
 
-_sub_folio = re.compile(r"(?:\b\d+ \n|(?<=\n)\d+\n|\bl\d+ \n|\b\d+l \n)", flags=FLAGS).sub
+_sub_folio = re.compile(r"(?:\b\d{1,3} \n|(?<=\n)\d{1,3}\n|\bl\d{1,2} \n|\b\d{1,2}l \n)", flags=FLAGS).sub
 
 
 def del_folio(mo):
