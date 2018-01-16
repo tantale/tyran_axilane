@@ -28,7 +28,7 @@ setup(
     long_description=u"{readme}\n{changes}".format(readme=read("README.rst"), changes=read("CHANGES.rst")),
     author=u'Laurent LAPORTE',
     author_email=u'tantale.solutions@gmail.com',
-    url='',
+    url='https://tantale.github.io/tyran_axilane/',
     license="MIT",
     platforms=['posix', 'nt'],
     keywords='epub',

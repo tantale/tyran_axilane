@@ -13,7 +13,7 @@ Identification
 - **Title:** Tyran Axilane
 - **Description:** Le Tyran d'axilane - Michel Grimaud - ebook
 - **GitHub:** https://github.com/tantale/tyran_axilane.git
-- **Wiki page:** ''
+- **Main page:** https://tantale.github.io/tyran_axilane/
 - **Keywords:** epub
 
 
