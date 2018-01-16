@@ -24,7 +24,7 @@ setup(
     version='0.0.0',
 
     # --- description
-    description="Tyran Axilane",
+    description="Le Tyran d'axilane - Michel Grimaud - ebook",
     long_description=u"{readme}\n{changes}".format(readme=read("README.rst"), changes=read("CHANGES.rst")),
     author=u'Laurent LAPORTE',
     author_email=u'tantale.solutions@gmail.com',
