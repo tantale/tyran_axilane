@@ -85,6 +85,28 @@ def convert_folio(content):
     return _sub_folio(del_folio, content)
 
 
+def iter_paragraphs(content):
+    # type: (str) -> str
+    curr = ""
+    for line in content.splitlines():
+        line = line.rstrip()  # remove trailing whitespace
+        if not curr:
+            curr = line
+        elif curr[-1] in ".?!*":
+            yield curr
+            curr = line
+        elif line.startswith("-"):
+            yield curr
+            curr = line
+        else:
+            curr += " " + line
+    yield curr
+
+
+def convert_paragraphs(content):
+    return "\n".join(iter_paragraphs(content))
+
+
 CONVERTERS = [
     ('convert_line_sep', convert_line_sep),
     ('convert_running_title', convert_running_title),
@@ -92,4 +114,5 @@ CONVERTERS = [
     ('convert_chapters', convert_chapters),
     ('convert_folio', convert_folio),
     ('convert_word_break', convert_word_break),
+    ('convert_paragraphs', convert_paragraphs),
 ]
