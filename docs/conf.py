@@ -19,13 +19,6 @@ import sphinx_py3doc_enhanced_theme
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.todo',
-    'sphinx.ext.coverage',
-    'sphinx.ext.ifconfig',
-    'sphinx.ext.viewcode',
-    'sphinx.ext.intersphinx',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -41,7 +34,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u"Tyran Axilane"
+project = u"Le Tyran d’Axilane"
 year = str(datetime.date.today().year)
 copyright = '{0}, Tantale Solutions'.format(year)
 
