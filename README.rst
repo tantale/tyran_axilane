@@ -79,3 +79,5 @@ Commit and tag your release::
 Push the release::
 
     git push origin master --tags
+
+Enjoy.
