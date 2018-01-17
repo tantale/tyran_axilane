@@ -1,6 +1,10 @@
 |project| |version| (|today|)
 =============================
 
+.. centered:: Présenté par Christian Grenier
+.. centered:: lllustrations Nathaële Vogel
+.. centered:: Folio Junior Gallimard 1998
+
 .. toctree::
    :maxdepth: 2
 
