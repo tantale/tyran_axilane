@@ -115,7 +115,7 @@ html_short_title = '{project}-{version}'.format(project=project, version=version
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "_static/logo-training-128.png"
+html_logo = "_static/icon-tyran_axilane-128.jpeg"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
