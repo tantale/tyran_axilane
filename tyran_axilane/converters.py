@@ -126,10 +126,13 @@ def convert_paragraphs(content):
 
 def convert_typo(content):
     content = re.sub(r"([.?!*>:])\s+[~-]\s?(\w)", r"\1\n- \2", content, flags=FLAGS)
-    content = re.sub(r"([.?!]\s+)ll\s+", r"\1Il ", content, flags=re.DOTALL | re.UNICODE)
-    content = re.sub(r"\b([bcdfghijklmnpqrstvwxyz])°(\w+)", r"\1’\2", content, flags=FLAGS)
-    content = re.sub(r"\s+([?;:!%])", "\u00a0" + r"\1", content, flags=re.DOTALL)
     content = re.sub(r"\n-\s*(\w)", r"\n– \1", content, flags=FLAGS)
+    content = re.sub(r"([.?!]\s+)ll\s+", r"\1Il ", content, flags=re.DOTALL | re.UNICODE)
+    content = re.sub(r"\b([bcdfghijklmnpqrstvwxyz])[°'](\w+)", r"\1’\2", content, flags=FLAGS)
+    content = re.sub(r"››", "»", content, flags=FLAGS)
+    content = re.sub(r"(?:‹‹|``|`'|'`)", "«", content, flags=FLAGS)
+    content = re.sub(r"\s*([?;:!%»])", "\u00a0" + r"\1", content, flags=re.DOTALL)
+    content = re.sub(r"([«])\s*", r"\1" + "\u00a0", content, flags=re.DOTALL)
     return content
 
 
