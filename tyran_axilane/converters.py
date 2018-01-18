@@ -107,7 +107,7 @@ def iter_paragraphs(content):
         line = line.rstrip()  # remove trailing whitespace
         if not curr:
             curr = line
-        elif curr[-1] in ".?!*":
+        elif curr[-1] in ".?!*>":
             yield curr
             curr = line
         elif line.startswith("-"):
