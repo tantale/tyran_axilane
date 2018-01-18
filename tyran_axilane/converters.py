@@ -77,7 +77,7 @@ class Chapters:
 
 convert_chapters = Chapters()
 
-_sub_word_break = re.compile(r"(\w\w+)-\s+(\w\w+)", flags=FLAGS).sub
+_sub_word_break = re.compile(r"(\w\w+)[~-]\s+(\w\w+)", flags=FLAGS).sub
 
 
 def del_hyphen(mo):
