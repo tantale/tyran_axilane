@@ -124,6 +124,15 @@ def convert_paragraphs(content):
     return "\n".join(iter_paragraphs(content))
 
 
+def convert_typo(content):
+    content = re.sub(r"([.?!*>:])\s+[~-]\s?(\w)", r"\1\n- \2", content, flags=FLAGS)
+    content = re.sub(r"([.?!]\s+)ll\s+", r"\1Il ", content, flags=re.DOTALL | re.UNICODE)
+    content = re.sub(r"\b([bcdfghijklmnpqrstvwxyz])°(\w+)", r"\1’\2", content, flags=FLAGS)
+    content = re.sub(r"\s+([?;:!%])", "\u00a0" + r"\1", content, flags=re.DOTALL)
+    content = re.sub(r"\n-\s*(\w)", r"\n– \1", content, flags=FLAGS)
+    return content
+
+
 CONVERTERS = [
     ('convert_line_sep', convert_line_sep),
     ('convert_running_title', convert_running_title),
@@ -133,4 +142,5 @@ CONVERTERS = [
     ('convert_folio', convert_folio),
     ('convert_word_break', convert_word_break),
     ('convert_paragraphs', convert_paragraphs),
+    ('convert_typo', convert_typo),
 ]
