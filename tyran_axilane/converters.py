@@ -70,6 +70,8 @@ class Chapters:
         return "<h2>{title}</h2>\n".format(title=title)
 
     def __call__(self, content):
+        content = content.replace("LE TYRAN D’AXILANE – Michel Grimaud",
+                                  "<h1>LE TYRAN D’AXILANE – Michel Grimaud</h1>")
         return _sub_chapter(self.format_title, content)
 
 
