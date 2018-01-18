@@ -38,6 +38,21 @@ def convert_illustration(content):
     return _sub_illustration(del_illustration, content)
 
 
+def convert_sections(content):
+    sections = ['<div>']
+    for line in content.splitlines():
+        sections.append(line)
+        if "****" in line:
+            sections.append('</div>')
+            sections.append('<div>')
+    while True:
+        top = sections[-1]
+        if top == '<div>':
+            sections.pop()
+            break
+    return "\n".join(sections)
+
+
 _sub_chapter = re.compile(r"(?<=\n)[IX|l\\/]+\s+Chapitre[ ]?\s+(.*?)\s*\n", flags=FLAGS).sub
 
 
@@ -111,6 +126,7 @@ CONVERTERS = [
     ('convert_line_sep', convert_line_sep),
     ('convert_running_title', convert_running_title),
     ('convert_illustration', convert_illustration),
+    ('convert_sections', convert_sections),
     ('convert_chapters', convert_chapters),
     ('convert_folio', convert_folio),
     ('convert_word_break', convert_word_break),
