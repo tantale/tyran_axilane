@@ -1,5 +1,7 @@
 # coding: utf-8
+import io
 import logging
+import os
 import re
 
 LOG = logging.getLogger(__name__)
@@ -59,9 +61,6 @@ _sub_chapter = re.compile(r"(?<=\n)[IX|l\\/]+\s+Chapitre[ ]?\s+(.*?)\s*\n", flag
 class Chapters:
     def __init__(self):
         self.nos = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII']
-        self.iter_nos = iter(self.nos)
-
-    def reset(self):
         self.iter_nos = iter(self.nos)
 
     def format_title(self, mo):
@@ -133,8 +132,68 @@ def convert_typo(content):
     content = re.sub(r"(?:‹‹|``|`'|'`)", "«", content, flags=FLAGS)
     content = re.sub(r"\s*([?;:!%»])", "\u00a0" + r"\1", content, flags=re.DOTALL)
     content = re.sub(r"([«])\s*", r"\1" + "\u00a0", content, flags=re.DOTALL)
+    content = re.sub(r"(\w)\.\.\.", r"\1…", content, flags=re.DOTALL)
     return content
 
+
+HERE = os.path.dirname(__file__)
+
+
+class SectionExporter:
+    def __init__(self):
+        self.docs_dir = os.path.join(os.path.dirname(HERE), "docs")
+        assert os.path.isdir(self.docs_dir)
+        self.rst_files = [
+            "chapters/chap01-baladins.rst",
+            "chapters/chap02-tikobal_barbe_or.rst",
+            "chapters/chap03-rose_rouge.rst",
+            "chapters/chap04-rose_blanche.rst",
+            "chapters/chap05-paix.rst",
+            "chapters/chap06-guerre.rst",
+            "chapters/chap07-printemps_axilane.rst",
+            "chapters/chap08-evasion_baladins.rst",
+            "chapters/chap09-conquetes.rst",
+            "chapters/chap10-fil_du_temps.rst",
+        ]
+        self.iter_rst = iter(self.rst_files)
+
+    def format_h1(self, mo):
+        title = mo.group(1)
+        fmt = ("{line}\n"
+               "{title}\n"
+               "{line}")
+        return fmt.format(title=title, line="=" * len(title))
+
+    def format_h2(self, mo):
+        title = mo.group(1)
+        fmt = ("{title}\n"
+               "{line}")
+        return fmt.format(title=title, line="=" * len(title))
+
+    def format_div(self, mo):
+        text = mo.group(1)
+        lines = []
+        for line in text.splitlines():
+            if not line and not line:
+                continue
+            line = re.sub(r"<h1>((?:(?!</h1>).)+)</h1>", self.format_h1, line, flags=FLAGS)
+            line = re.sub(r"<h2>((?:(?!</h2>).)+)</h2>", self.format_h2, line, flags=FLAGS)
+            line = line.replace("*", "★")
+            line = line.replace("★★★★", ".. centered:: ★★★★")
+            lines.append(line)
+        text = "\n\n".join(lines)
+        relpath = next(self.iter_rst)
+        rst_path = os.path.join(self.docs_dir, relpath)
+        with io.open(rst_path, mode="w", encoding="utf-8") as f:
+            f.write(text)
+        return text
+
+    def __call__(self, content):
+        content = re.sub(r"<div>((?:(?!</div>).)+)</div>", self.format_div, content, flags=FLAGS)
+        return content
+
+
+export_sections = SectionExporter()
 
 CONVERTERS = [
     ('convert_line_sep', convert_line_sep),
@@ -146,4 +205,5 @@ CONVERTERS = [
     ('convert_word_break', convert_word_break),
     ('convert_paragraphs', convert_paragraphs),
     ('convert_typo', convert_typo),
+    ('export_sections', export_sections),
 ]
