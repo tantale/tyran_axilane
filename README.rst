@@ -50,6 +50,9 @@ Build **tyran_axilane** documentation by running::
 The HTML documentation is then available in the ``dist/docs`` subdirectory.
 You can open the index page: ``dist/docs/index.html``.
 
+To generate the epub v2 documentation, run::
+
+    sphinx-build -b epub2 -d dist/docs/doctrees docs dist/docs/epub
 
 Release
 -------

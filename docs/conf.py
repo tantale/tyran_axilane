@@ -190,3 +190,26 @@ rst_epilog = """
 
 # noinspection SpellCheckingInspection
 intersphinx_mapping = {'python': ('https://docs.python.org/2.7/', None)}
+
+
+# -- Options for EPub output -------------------------------------------
+
+epub_basename = project
+epub_theme = 'epub'
+epub_theme_options = {
+    # relbar1: If this is true, the relbar1 block is inserted in the epub output, otherwise it is omitted.
+    'relbar1': False,
+
+    # footer: If this is true, the footer block is inserted in the epub output, otherwise it is omitted.
+    'footer': False
+}
+epub_title = "Le Tyran d'axilane"
+epub_description = "Une troupe de baladins rescapée d'un voyage spatial arrive aux portes d'une ville enfouie sous les neiges. Bambrille, la petite danseuse, est si gracieuse que le maître des lieux, un tyran sanguinaire, en tombe amoureux et retient la troupe prisonnière. Mais il ignore tout des pouvoirs de Sidonel, magicien des airs, capable de dérouler le fil du temps et d'explorer l'avenir. Le tyran d'Axilane est-il aussi puissant qu'il le croit, et sera-t-il le maître de son futur ?"
+epub_author = "Michel Grimaud"
+epub_language = 'fr'
+epub_publisher = "Folio Junior"
+epub_copyright = copyright
+epub_identifier = "9782070341139"
+epub_scheme = 'ISBN'
+epub_uid = "BookId"
+epub_cover = ('/_static/cover-tyran_axilane.jpeg', '')
