@@ -41,7 +41,7 @@ Il s’accrochait au vain espoir que l”homme lui dirait qu'il y avait eu un mo
 
 Il éclata de rire et reprit : Le jour ou ces deux-la cesseront de se battre n’est pas près de venir ! Tu déraisonnes, tête rondel
 
-– Ah l Tu dois dire vrai... mais explique-moi pourquoi ils se combattent en ce moment.
+– Ah l Tu dois dire vrai… mais explique-moi pourquoi ils se combattent en ce moment.
 
 – Comme d’habitude, pour n”importe quoi. Il parait que Tikobal a envoyé cet hiver un messager a Thazor pour lui demander la main de sa fille.
 
@@ -55,7 +55,7 @@ Il éclata de rire et reprit : Le jour ou ces deux-la cesseront de se battre n�
 
 – J’ai encore une question, marchand, sais-tu si le sarak Tikobal participe à cette bataille ?
 
-– Non. je n’ai pas vu son aérostat personnel, il doit être occupé ailleurs... Tiens. on dit qu'un magicien noir ne le quitte pas d’une semelle.
+– Non. je n’ai pas vu son aérostat personnel, il doit être occupé ailleurs… Tiens. on dit qu'un magicien noir ne le quitte pas d’une semelle.
 
 Sidonel remonta sur le bœuf et regagna tristement la cité de Barbe-d’Or. Au milieu de l’après-midi, il remit le bœuf dans la grotte, mais au lieu de gravir aussitôt le sentier, il se rendit à la ville. Un vieil homme solitaire gardait les portes, armé d’une lance qui tremblait au bout de son bras. Il laissa entrer Sidonel sans rien lui demander. Le baladin traversa la place des aérostats jusqu'aux maisons et s’enfonça dans la première rue qu'il rencontra. On entendait bien quelques rires d’enfants ici et là. mais tout semblait morne, étrangement dépeuplé. De temps en temps, il rencontrait un vieillard ou une femme occupée à quelque besogne sur le seuil de sa porte, mais aucun homme jeune ou d’âge mûr. Quand il passait, on le regardait à la dérobée sans lui adresser la parole. Pourtant, il devinait qu'on le connaissait. Un moment, n’y tenant plus, il interpella une jeune fille penchée sur la margelle d’un puits.
 
@@ -63,7 +63,7 @@ Sidonel remonta sur le bœuf et regagna tristement la cité de Barbe-d’Or. Au 
 
 La jeune fille le considéra avec frayeur, elle semblait paralysée. Sidonel essaya de lui sourire.
 
-– Bétéko, la maison de Bétéko... ce n’est pas si difficile à expliquer !
+– Bétéko, la maison de Bétéko… ce n’est pas si difficile à expliquer !
 
 Elle abandonna son seau, et, toujours sans un mot. elle lui fit signe de la suivre. La jeune fille le mena ainsi au plus profond de la cité, devant une maisonnette qui s’adossait au pied des falaises. A droite de cette demeure, débutait un escalier très raide qui s’élevait jusqu'au château.
 
@@ -81,7 +81,7 @@ Il approcha du lit. Bétéko, le crâne entouré de bandages, se dressa à demi 
 
 – Te souviens-tu de moi ? questionna Sidonel.
 
-– Le... que veux-tu ?
+– Le… que veux-tu ?
 
 Bétéko reculait maintenant vers la tête de son lit avec inquiétude.
 
@@ -91,7 +91,7 @@ Bétéko reculait maintenant vers la tête de son lit avec inquiétude.
 
 – Je voulais simplement parler un peu, pourquoi avez-vous tous peur de moi ?
 
-– On raconte que tu es un magicien formidable...
+– On raconte que tu es un magicien formidable…
 
 on dit que tu peux disparaître et que tu es aussi terrible que le sarak.
 
@@ -105,11 +105,11 @@ on dit que tu peux disparaître et que tu es aussi terrible que le sarak.
 
 Sidonel ressentít un grand creux dans sa poitrine. Il se mordit la lèvre pour ne pas retenir une exclamation.
 
-– Ce sont des bavardages ridicules ! dit-il après un temps de silence. (Puis il ajouta :) L’autre nuit j”ai fait un rêve, Bétéko... Un rêve trompeur hélas, mais beau. La paix régnait et tu t’en réjouissais. Tu avais ensemencé la petite terre de la plaine, celle qui borde un bosquet. Plein de joie ensuite, tu venais de te décider à défricher justement ce coin de bois, quand je me suis éveillé... Qu'en penses-tu ?
+– Ce sont des bavardages ridicules ! dit-il après un temps de silence. (Puis il ajouta :) L’autre nuit j”ai fait un rêve, Bétéko… Un rêve trompeur hélas, mais beau. La paix régnait et tu t’en réjouissais. Tu avais ensemencé la petite terre de la plaine, celle qui borde un bosquet. Plein de joie ensuite, tu venais de te décider à défricher justement ce coin de bois, quand je me suis éveillé… Qu'en penses-tu ?
 
 Bétéko lui répondit, le regardant avec étonnement :
 
-– Tu es un magicien étrange, Djazileh ! Je possède en effet une pièce de bonne terre, là-bas, et un petit bois. Souvent je pense à couper les arbres, mais à quoi bon me donner de la peine ? L’armée saccagerait mon travail une saison sur deux. Tiens, sais-tu pourquoi tu me trouves couché ici quand je devrais être occupé à me battre pour le sarak ? Je labourais mon champ là-bas, il y a quelques semaines... Un aérostat de Thazor Tête-d”Argent est arrivé sur moi... Les hommes m”ont frappé, les hurlants m’ont mordu, puis ils sont repartis en me laissant pour mort. Crois-moi, la paix.
+– Tu es un magicien étrange, Djazileh ! Je possède en effet une pièce de bonne terre, là-bas, et un petit bois. Souvent je pense à couper les arbres, mais à quoi bon me donner de la peine ? L’armée saccagerait mon travail une saison sur deux. Tiens, sais-tu pourquoi tu me trouves couché ici quand je devrais être occupé à me battre pour le sarak ? Je labourais mon champ là-bas, il y a quelques semaines… Un aérostat de Thazor Tête-d”Argent est arrivé sur moi… Les hommes m”ont frappé, les hurlants m’ont mordu, puis ils sont repartis en me laissant pour mort. Crois-moi, la paix.
 
 on peut en parler, mais jamais elle n’arrivera.
 
@@ -121,7 +121,7 @@ Sidonel remonta sur le plateau. Le crépuscule commençait à peine à teindre d
 
 Barbe-d’Or se redressa, farouche et visiblement satisfait.
 
-– Tu me raconteras cela en détail demain... La guerre vraiment... Eh bien, j’aime mieux la guerre !
+– Tu me raconteras cela en détail demain… La guerre vraiment… Eh bien, j’aime mieux la guerre !
 
 Tes histoires de paix ne me disaient rien qui vaille l Le lendemain, Tikobal lit venir les baladins au complet dans la salle du trône et il demanda à Sidonel de lui conter la guerre telle qu'il l’avait vue. Très vite tandis que Sidonel parlait, l’attention de Tikobal se reporta sur Bambrille. Il écoutait distraitement en dévorant la jeune femme des yeux. Quand Sidonel se tut. Tikobal se leva de son trône et déclara :
 

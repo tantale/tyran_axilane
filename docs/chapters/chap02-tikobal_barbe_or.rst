@@ -23,17 +23,17 @@ Tarano se détacha du groupe d’un pas en avant. et répondit avec beaucoup de 
 
 Barbe-d’Or laissa descendre sur les baladins un sourire méprisant et penché vers Tarano, il répliqua :
 
-– Mais moi, je suis un homme difficile, je ris parfois lorsque je vois mes ennemis éclatés comme des fruits mûrs ; je m’amuse quand les autres tremblent ; je me distrais à contempler mon armée ravager les terres voisines... Qu'as-tu donc à m’offrir qui m’amuse davantage ?
+– Mais moi, je suis un homme difficile, je ris parfois lorsque je vois mes ennemis éclatés comme des fruits mûrs ; je m’amuse quand les autres tremblent ; je me distrais à contempler mon armée ravager les terres voisines… Qu'as-tu donc à m’offrir qui m’amuse davantage ?
 
 Tarano sourit sans s’émouvoir.
 
-– Au cours de nos voyages nous avons approché de nombreux princes en leurs riches demeures. Ils avaient autour d”eux des foules d’amis, de parents. des belles femmes aux joues rieuses, des nuées d’enfants... Ici je vois sur cette table immense un unique couvert et dans cette vaste salle, un homme solitaire. Sarak Tikobal, l”ennui doit rendre ton hiver sans fin ! Il te manque la joie et nous la portons dans nos bagages. D’un geste rageur, le sarak détacha les deux mains d’argent qui retenaient sa cape rouge fermée sur le devant et se dressa imposant dans sa longue tunique d’écailles qu'aucune lance ne pouvait transpercer. Il descendit les marches de l’estrade avec une lenteur calculée, vint dominer de sa haute taille le vieil homme noir qui osait le contredire.
+– Au cours de nos voyages nous avons approché de nombreux princes en leurs riches demeures. Ils avaient autour d”eux des foules d’amis, de parents. des belles femmes aux joues rieuses, des nuées d’enfants… Ici je vois sur cette table immense un unique couvert et dans cette vaste salle, un homme solitaire. Sarak Tikobal, l”ennui doit rendre ton hiver sans fin ! Il te manque la joie et nous la portons dans nos bagages. D’un geste rageur, le sarak détacha les deux mains d’argent qui retenaient sa cape rouge fermée sur le devant et se dressa imposant dans sa longue tunique d’écailles qu'aucune lance ne pouvait transpercer. Il descendit les marches de l’estrade avec une lenteur calculée, vint dominer de sa haute taille le vieil homme noir qui osait le contredire.
 
 – Si tu tiens tellement à me divertir. alors qu'attends-tu ? questionna-t-il, un instant décontenancé par le regard doré, tranquille. levé vers lui.
 
-– Sarak Tikobal, nous n’obligeons personne à nous recevoir. On dit que le sarak Thazor, ton voisin, est un homme gai qui aime le plaisir... Nous lui demande rons l”hospitalité.
+– Sarak Tikobal, nous n’obligeons personne à nous recevoir. On dit que le sarak Thazor, ton voisin, est un homme gai qui aime le plaisir… Nous lui demande rons l”hospitalité.
 
-– A condition que je te laisse sortir. Et je n’en ai pas l’intention. Je veux voir ici ce soir le plus beau des spectacles. amusez-moi. le mieux que vous pourrez : faites des merveilles, éblouissez-moi. sinon c’est moi qui m’amuserai de vous... à ma façon.
+– A condition que je te laisse sortir. Et je n’en ai pas l’intention. Je veux voir ici ce soir le plus beau des spectacles. amusez-moi. le mieux que vous pourrez : faites des merveilles, éblouissez-moi. sinon c’est moi qui m’amuserai de vous… à ma façon.
 
 A ce moment le fils de Tarano, Sidonel, se glissa à son côté et demanda :
 
@@ -43,7 +43,7 @@ A ce moment le fils de Tarano, Sidonel, se glissa à son côté et demanda :
 
 – Et que nous paieras-tu pour cette soirée ? osa encore questionner Sidonel.
 
-– Tout dépendra du plaisir que vous m’aurez apporté. Provoque-moi assez pour me distraire. mais pas au point de me mettre en colère... Ainsi je te paie déjà d’un bon conseil.
+– Tout dépendra du plaisir que vous m’aurez apporté. Provoque-moi assez pour me distraire. mais pas au point de me mettre en colère… Ainsi je te paie déjà d’un bon conseil.
 
 – Sarak Barbe-d’Or, nous ne pouvons jouer sans notre matériel, intervint Wanolo.
 
@@ -55,7 +55,7 @@ En effet, des pas résonnaient dans la galerie. puis dans le couloir qui menait 
 
 – Tenons-nous sur nos gardes, ce sarak Barbe-d’Or est un nomme dangereux, nous sommes bien mal tombés ! dit Tarano à voix basse.
 
-Ils s’affairèrent à préparer la salle, tendre une corde en diagonale d’une poutre à l’autre, pendre la corde lisse au centre de la pièce, monter la cage transparente du bombok, sortir leurs costumes et accessoires. Pendant ce temps, des serviteurs silencieux allaient et venaient, portant du bois, allumant du feu dans la haute cheminée, pourvoyant les murs en torches neuves, fermant les volets de l’unique et étroite fenêtre. tirant les tentures... Un immense homme borgne au faciès menaçant semblait avoir la charge de surveiller tout le monde. Il arpentait la place laissée libre derrière la table du sarak et son fouet. en claquant l’air. rappelait a l’ordre tel domestique maladroit ou trop lent.
+Ils s’affairèrent à préparer la salle, tendre une corde en diagonale d’une poutre à l’autre, pendre la corde lisse au centre de la pièce, monter la cage transparente du bombok, sortir leurs costumes et accessoires. Pendant ce temps, des serviteurs silencieux allaient et venaient, portant du bois, allumant du feu dans la haute cheminée, pourvoyant les murs en torches neuves, fermant les volets de l’unique et étroite fenêtre. tirant les tentures… Un immense homme borgne au faciès menaçant semblait avoir la charge de surveiller tout le monde. Il arpentait la place laissée libre derrière la table du sarak et son fouet. en claquant l’air. rappelait a l’ordre tel domestique maladroit ou trop lent.
 
 Quand tout fut prêt. les baladins mirent leurs costumes et se serrèrent près de la cheminée. Le borgne renvoya d’un geste les serviteurs. puis se posta près de la porte. son œil unique et terrible fixait le trône vide comme s’il attendait qu'un ordre tombât de là. Bambrille serra la main de Sidonel et murmura :
 
@@ -79,13 +79,13 @@ Tarano s’inclina devant Barbe-d’Or pour annoncer :
 
 Wanolo fit passer l’animal dans la cage de verre et y pénétra ensuite.
 
-De toutes les bêtes qui allaient de par le monde. mordant, griffant, broyant, piquant, le bombok était bien le plus redouté. On ne le chassait qu'en groupe et la crainte au cœur, car sa sauvagerie et sa force étaient sans égales. La quadruple rangée de poignards qui lui servaient de dents fixait sur sa face un rictus effroyable, sa queue bardée d’épines longues et dures fouettait rageusement l”air dès que sa méfiance s’éveillait. D’un seul coup de patte, il pouvait éventrer ses agresseurs ou ses proies. Le bombok excédait rarement les soixante centimètres au garrot, pourtant la puissance de sa musculature lui permettait d’accomplir des bonds prodigieux. Tikobal saisit un morceau de viande et se mit à le dévorer, léchant l’excédent de jus qui coulait dans ses mains. Il leva un regard distrait vers Wanolo. Celui-ci enlaçait le fauve dressé debout contre lui... il l’obligea à danser. Le sarak haussa les épaules et leva son verre vide pour que le borgne vînt le remplir. Un seul instant, il retint son souffle, Sidonel vit même ses mains blanches se crisper sur la table. Dans la cage. le bombok venait de bondir sur le dos de Wanolo en le précipitant au sol. Barbe-d’Or eut un sourire cruel qui se transforma en grimace lorsque Wanolo roula de côté en caressant le fauve qui lui léchait le visage. Puis Wanolo se mit à ramper dans la cage et les yeux du sarak s’agrandirent d’effroi. Le bombok étendu sur le ventre s’allongeait. s’allongeait, il devenait une sorte de gros serpent qui rampait à côté de l’homme. sa mâchoire étirée jusqu`à mi-corps. Il était si épouvantable que Tikobal cria :
+De toutes les bêtes qui allaient de par le monde. mordant, griffant, broyant, piquant, le bombok était bien le plus redouté. On ne le chassait qu'en groupe et la crainte au cœur, car sa sauvagerie et sa force étaient sans égales. La quadruple rangée de poignards qui lui servaient de dents fixait sur sa face un rictus effroyable, sa queue bardée d’épines longues et dures fouettait rageusement l”air dès que sa méfiance s’éveillait. D’un seul coup de patte, il pouvait éventrer ses agresseurs ou ses proies. Le bombok excédait rarement les soixante centimètres au garrot, pourtant la puissance de sa musculature lui permettait d’accomplir des bonds prodigieux. Tikobal saisit un morceau de viande et se mit à le dévorer, léchant l’excédent de jus qui coulait dans ses mains. Il leva un regard distrait vers Wanolo. Celui-ci enlaçait le fauve dressé debout contre lui… il l’obligea à danser. Le sarak haussa les épaules et leva son verre vide pour que le borgne vînt le remplir. Un seul instant, il retint son souffle, Sidonel vit même ses mains blanches se crisper sur la table. Dans la cage. le bombok venait de bondir sur le dos de Wanolo en le précipitant au sol. Barbe-d’Or eut un sourire cruel qui se transforma en grimace lorsque Wanolo roula de côté en caressant le fauve qui lui léchait le visage. Puis Wanolo se mit à ramper dans la cage et les yeux du sarak s’agrandirent d’effroi. Le bombok étendu sur le ventre s’allongeait. s’allongeait, il devenait une sorte de gros serpent qui rampait à côté de l’homme. sa mâchoire étirée jusqu`à mi-corps. Il était si épouvantable que Tikobal cria :
 
 – Assez !
 
 Wanolo alors se roula en boule. Le bombok aussitôt se ramassa, se gonfla ; il devint une grosse outre à la peau transparente. la tête noyée dans le corps.
 
-Wanolo tourna un médaillon qu'il portait au cou et une lueur bleue le teinta. Simultanément, l’outre transparente s’illumina d’une ardente lumière bleue qui éclaira toute la salle. Tikobal s’était dressé, il allait crier, mais Wanolo déjà se levait lentement en écartant les bras. Le sarak resta bouche bée, pendant que le bombok se transformait une fois de plus. La tête prise dans un corps en forme d’oeuf. il s’étirait à la verticale, poussait des moignons de part et d’autre de son tronc jusqu'à obtenir des ailes battant l’air...
+Wanolo tourna un médaillon qu'il portait au cou et une lueur bleue le teinta. Simultanément, l’outre transparente s’illumina d’une ardente lumière bleue qui éclaira toute la salle. Tikobal s’était dressé, il allait crier, mais Wanolo déjà se levait lentement en écartant les bras. Le sarak resta bouche bée, pendant que le bombok se transformait une fois de plus. La tête prise dans un corps en forme d’oeuf. il s’étirait à la verticale, poussait des moignons de part et d’autre de son tronc jusqu'à obtenir des ailes battant l’air…
 
 – Assez !
 
@@ -107,13 +107,13 @@ Le borgne n’osa bouger, tant que son maître ne le lui permit pas. Enfin le sa
 
 – Va, Gorok, et sans faiblesse !
 
-Le colosse borgne saisit la grosse chaîne et commença à tourner autour de Camperolle qu'il serrait rudement. Chaque fois que l’homme passait derrière lui, Camperolle entendait quelques mots chuchotés à son oreille : Sois fort... Mais pas trop... Il détruit tout ce qui le dépasse...
+Le colosse borgne saisit la grosse chaîne et commença à tourner autour de Camperolle qu'il serrait rudement. Chaque fois que l’homme passait derrière lui, Camperolle entendait quelques mots chuchotés à son oreille : Sois fort… Mais pas trop… Il détruit tout ce qui le dépasse…
 
 – Merci, l”ami, souffla Camperolle.
 
 Quand l”autre l’eut laissé ligoté. le baladin tourna avec lenteur sur lui-même pour montrer à quel point la chaîne serrait ses chairs, lui interdisant tout mouvement des bras. Tikobal Barbe-d’Or se leva, les mains posées sur la table, penché en avant, comme s’il ne voulait rien perdre du spectacle.
 
-Camperolle ferma les yeux pour ne pas voir le sarak et sa face méchante. Il se concentra. pensa à chacun des points de son corps qui devaient agir. Brusquement, il banda ses muscles, ne cessant l’effort que lorsqu'un maillon tinta en cédant. Ce n`était qu'un début, le borgne avait emmêlé les tours en les croisant et les anneaux, d’une forme particulière. s’accrochaient entre eux : la chaîne l’enfermait toujours dans son étau. Il fallait recommencer, dix fois peut-être avant de se libérer. L’amour du métier, le goût du défi lui firent oublier les paroles de Gorok. Il rompit les maillons les uns après les autres, dans un effort énorme. Il n’en restait plus que trois pour arriver à la victoire, lorsqu'il ouvrit les yeux, l’expression glacée du sarak lui rappela à temps le conseil du borgne. Dans le regard pâle de Barbe-d’Or, il lut une menace mortelle...
+Camperolle ferma les yeux pour ne pas voir le sarak et sa face méchante. Il se concentra. pensa à chacun des points de son corps qui devaient agir. Brusquement, il banda ses muscles, ne cessant l’effort que lorsqu'un maillon tinta en cédant. Ce n`était qu'un début, le borgne avait emmêlé les tours en les croisant et les anneaux, d’une forme particulière. s’accrochaient entre eux : la chaîne l’enfermait toujours dans son étau. Il fallait recommencer, dix fois peut-être avant de se libérer. L’amour du métier, le goût du défi lui firent oublier les paroles de Gorok. Il rompit les maillons les uns après les autres, dans un effort énorme. Il n’en restait plus que trois pour arriver à la victoire, lorsqu'il ouvrit les yeux, l’expression glacée du sarak lui rappela à temps le conseil du borgne. Dans le regard pâle de Barbe-d’Or, il lut une menace mortelle…
 
 Alors Camperolle afficha plus de fatigue qu'il n’en ressentait en réalité. Il brisa un ultime chaînon. puis gonfla vainement ses muscles et s’écroula enfin. toujours entrave.
 
@@ -129,7 +129,7 @@ Wanolo et Sidonel s’empressèrent de libérer Camperolle, sans oser lui demand
 
 – Veux-tu voir nos jeunes acrobates, sarak ? questionna Tarano la voix mal assurée ; l’échec de son fils aîné ébranlait sa sérénité.
 
-– Montre toujours...
+– Montre toujours…
 
 Ibril et Clarine, les larmes aux yeux après l’humiliation de leur père, accomplirent ce soir-là des prouesses, ils prirent des risques insensés dans leur périlleux numéro à la corde raide. Tikobal daigna lever un sourcil lorsque les deux enfants tendus comme des arcs entamérent une vertigineuse toupie, la tête en bas. Libérée d’une longue torsion préalable, la corde tournait entraînant les petits acrobates dans une ronde effrénée.
 
@@ -217,7 +217,7 @@ Tarano haussa les épaules et répondit :
 
 – Ce n’est pas un secret. elle vole comme volent les ballons, des outres plus légères que l’air tapissent sa ceinture et sa robe ; par un calcul précis du poids de la personne et du volume des outres, n’importe qui peut voler. L’enchantement n’est pas là. Il vient de sa grâce et de son art. Maintenant sarak Tikobal. que nous donneras-tu pour cette soirée ' ?
 
-– Djazilehs. vous ne m’avez ni distrait ni émerveillé ! Pour me payer de ma patience. je garde vos biens. vos bœufs. votre aérostat. Je vous laisse partir tels que vous êtes... Je vous donne la vie. c’est un très grand don.
+– Djazilehs. vous ne m’avez ni distrait ni émerveillé ! Pour me payer de ma patience. je garde vos biens. vos bœufs. votre aérostat. Je vous laisse partir tels que vous êtes… Je vous donne la vie. c’est un très grand don.
 
 – Sarak Tikobal, tu ne peux faire cela ! Il gèle dehors et nous sommes nus, nous avons faim. dit Tarano.
 
@@ -241,7 +241,7 @@ Sidonel avait bondi en criant et saisi les lanières au vol.
 
 – Encore toi ! ragea Barbe-d’Or.
 
-– Sarak, écoute-moi... Si tu promets de nous laisser repartir avec nos biens, je te montrerai une merveille qu'aucun homme de ta race n’a jamais contemplée.
+– Sarak, écoute-moi… Si tu promets de nous laisser repartir avec nos biens, je te montrerai une merveille qu'aucun homme de ta race n’a jamais contemplée.
 
 – Non, Sídonel, il ne faut pas ! gémit Tarano.
 

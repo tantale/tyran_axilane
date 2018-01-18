@@ -27,7 +27,7 @@ Sitôt le jour venu, Barbe-d’Or entra chez les baladins. Il s’enquit très a
 
 Les yeux de Tikobal retrouvèrent leur pâle éclat de glace, ses grandes mains blanches se crispèrent l’une sur l’autre.
 
-– Ecoute-moi, baladin... Fais ce .que je te demande et tu repartiras avec les tiens, tous vos biens, plus cinq sacs de grain et un balodon bien gras qui couine encore dans sa cage... C”est peu de chose que je te demande.
+– Ecoute-moi, baladin… Fais ce .que je te demande et tu repartiras avec les tiens, tous vos biens, plus cinq sacs de grain et un balodon bien gras qui couine encore dans sa cage… C”est peu de chose que je te demande.
 
 – De quoi s’agit-il ? demanda Sidonel. méfiant.
 
@@ -57,7 +57,7 @@ Dans la grande salle, deux gardes entretenaient un feu d’enfer. Les baladins e
 
 « Pourquoi tient-il tellement à cette rose ? » se demandait Sidonel, tandis qu'il se préparait à tirer sa flêche.
 
-Et puis il s’élança, tout disparut à ses yeux, il ne resta que cet étrange tunnel diffus et scintillant, à chaque fois différent. Cette fois-ci. les minutes, les heures, les jours résistaient à son avance. Il peinait pour chaque pas, pour chaque instant à venir. Sidonel sentait la fatigue de ses muscles, une ardente brûlure à son visage. Comme il était loin ce printemps ! Brusquement, le jour, le jour des vivants lui éclaira la salle du château. Un rayon de soleil arrivait par la fenêtre ouverte, mais au bout de la longue table, Tikobal se trouvait installé...
+Et puis il s’élança, tout disparut à ses yeux, il ne resta que cet étrange tunnel diffus et scintillant, à chaque fois différent. Cette fois-ci. les minutes, les heures, les jours résistaient à son avance. Il peinait pour chaque pas, pour chaque instant à venir. Sidonel sentait la fatigue de ses muscles, une ardente brûlure à son visage. Comme il était loin ce printemps ! Brusquement, le jour, le jour des vivants lui éclaira la salle du château. Un rayon de soleil arrivait par la fenêtre ouverte, mais au bout de la longue table, Tikobal se trouvait installé…
 
 Le sarak n’était pas seul, près de lui Bambrille se tenait assise, avec une raideur que Sidonel ne lui avait jamais vue. Elle posa sur lui ses yeux lourds de peine. Sidonel n”eut pas le courage de lui parler. de lui promettre la liberté, accablé par la révélation qui lui était faite : au printemps, ils seraient encore prisonniers.
 
@@ -75,7 +75,7 @@ Sidonel à pas lents descendit l’escalier grinçant. Il remarqua en passant qu
 
 Ce qu'il vit alors le laissa abasourdi, tremblant de crainte et de colère. Il arpenta le jardin en vain, pour s’assurer que sa mémoire ne le trahissait pas, puis il rentra en courant, gravit les escaliers quatre à quatre. Barbe-d’Or ne se trouvait plus dans la salle du trône, ni Bambrille. Seul le fil du temps était là, brillant. Comme d’habitude et plus encore que d’habitude.
 
-Le retour vers l’hiver le malmena durement. Les heures, les jours refluaient avec violence. le ballottaient sur le lien fragile, roulaient sous ses pieds, le poussaient aux épaules. Il freina sa course avec peine quand apparut le mur de lumière... Il tomba sur un genou devant Tarano qui l’aida à se relever. Tikobal se précipita, bousculant le vieil homme. Il saisit Sidonel aux épaules, le secoua.
+Le retour vers l’hiver le malmena durement. Les heures, les jours refluaient avec violence. le ballottaient sur le lien fragile, roulaient sous ses pieds, le poussaient aux épaules. Il freina sa course avec peine quand apparut le mur de lumière… Il tomba sur un genou devant Tarano qui l’aida à se relever. Tikobal se précipita, bousculant le vieil homme. Il saisit Sidonel aux épaules, le secoua.
 
 -« Alors baladin, cette rose blanche que je t’ai demandée !
 
@@ -83,11 +83,11 @@ Le retour vers l’hiver le malmena durement. Les heures, les jours refluaient a
 
 Barbe-d’Or partit d’un rire énorme et triomphant.
 
-– C’est moi, tonna-t-il, moi qui ai changé l’avenir ! Tiens, viens voir... Mes hommes ont saccagé la roseraie cette nuit.
+– C’est moi, tonna-t-il, moi qui ai changé l’avenir ! Tiens, viens voir… Mes hommes ont saccagé la roseraie cette nuit.
 
 – Inutile, je l’avais compris, répondit Sidonel.
 
-– Ecoute Djazileh, je vais faire ta fortune. Grâce à ton pouvoir le monde entier m’appartient... Qu'as-tu vu d’autre au printemps ? Allons, raconte !
+– Ecoute Djazileh, je vais faire ta fortune. Grâce à ton pouvoir le monde entier m’appartient… Qu'as-tu vu d’autre au printemps ? Allons, raconte !
 
 – Rien de particulier.
 
@@ -95,17 +95,17 @@ Barbe-d’Or partit d’un rire énorme et triomphant.
 
 – Sarak, tu dois tenir ta parole, s’insurgea Tarano.
 
-– Quelle parole, tête ronde ? D”ailleurs ton fils ne m’a pas ramené de rose blanche... J’ai un autre marché à lui proposer.
+– Quelle parole, tête ronde ? D”ailleurs ton fils ne m’a pas ramené de rose blanche… J’ai un autre marché à lui proposer.
 
 – Sarak, Sidonel ne peut pas retourner indéfiniment sur le fil du temps, regarde comme il vacille, il est épuisé !
 
 – Qu'il se repose, qu'il se restaure !
 
-– Il y a autre chose, sarak... Regarde-le bien. ne comprends-tu pas ?
+– Il y a autre chose, sarak… Regarde-le bien. ne comprends-tu pas ?
 
 – Non, il a changé, me semble-t-il, mais je ne saurais dire comment. Pour moi, vos figures noires manquent d’expression.
 
-– Il a vieilli, dit lentement Tarano. Ceux qui vont dans l’avenir le paient de quelques années de leur vie... Parfois plus, parfois moins, nous ne savons pas pourquoi. Nous ne pouvons rien y faire. C’est la loi du temps. C’est aussi la raison pour laquelle nous n’usons de ce pouvoir que très rarement et seulement au bénéfice de notre peuple.
+– Il a vieilli, dit lentement Tarano. Ceux qui vont dans l’avenir le paient de quelques années de leur vie… Parfois plus, parfois moins, nous ne savons pas pourquoi. Nous ne pouvons rien y faire. C’est la loi du temps. C’est aussi la raison pour laquelle nous n’usons de ce pouvoir que très rarement et seulement au bénéfice de notre peuple.
 
 – Etrange pouvoir ! murmura Barbe-d’Or rêveur. comme il est heureux que j« n profite par ton fils interposé !
 
@@ -147,7 +147,7 @@ Mais les jours passaient, inquiétants de calme, sans rien qui puisse donner esp
 
 Le colosse secoua lourdement la tête.
 
-– Il n’y a rien à faire, jamais prisonniers n”ont été si bien gardés... ni mieux traités, vous n’êtes pas à plaindre.
+– Il n’y a rien à faire, jamais prisonniers n”ont été si bien gardés… ni mieux traités, vous n’êtes pas à plaindre.
 
 – Les Djazilehs ne peuvent vivre enfermés, il nous faut notre liberté.
 

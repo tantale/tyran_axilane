@@ -17,13 +17,13 @@ Ils retournèrent au campement et Tikobal garda la son armée immobilisée. Il s
 
 Deux jours plus tard, quand des plus hautes nacelles les guetteurs distinguèrent la ligne sombre et continue de la forêt, Tikobal arrêta son avance et donna ses ordres. La nuit suivante, Akir musela les hurlants, puis ils montèrent à bord de l’aérostat et s’envolèrent dans une course rapide et silencieuse. Ils mirent à nouveau pied à terre devant la forêt. Akir chercha une trouée assez vaste pour dissimuler le ballon qu'il fit descendre au plus bas, en réduisant la taille des traits. Ils laissèrent les bêtes là, et s’enfoncèrent sous les arbres. Ils attendirent encore un jour et une nuit sans bouger du fourré où ils se tenaient cachés. La dernière nuit, Tikobal dit, songeur :
 
-– Ecoute Sidonel, en prêtant l’oreille, nous pourrons peut-être entendre ta course dans la plaine...
+– Ecoute Sidonel, en prêtant l’oreille, nous pourrons peut-être entendre ta course dans la plaine…
 
 Le matin, ils grimpèrent sur une branche élevée et virent au loin les ballons qui avançaient vers eux dans un bel ordre. Parvenus face à la forêt qui leur barrait la route, les aérostats bifurquèrent et prirent la direction du défilé qui s’ouvrait largement, entre les collines rocheuses, pour se resserrer par la suite.
 
 – Ils vont se faire massacrer ! dit Sidonel, effaré. Tikobal se mit à rire et répondit :
 
-– Me prends-tu pour un imbécile ? Tous les ballons que tu vois sont vides. il y a seulement des pilotes en tête et en queue. Mes hommes ont contourné ThaZor tandis que nous attendions et c”est lui qui va se faire anéantir dans le défilé. Il ne pourra pas nous échapper...
+– Me prends-tu pour un imbécile ? Tous les ballons que tu vois sont vides. il y a seulement des pilotes en tête et en queue. Mes hommes ont contourné ThaZor tandis que nous attendions et c”est lui qui va se faire anéantir dans le défilé. Il ne pourra pas nous échapper…
 
 Et d’une voix troublée, le sarak ajouta :
 
@@ -31,7 +31,7 @@ Et d’une voix troublée, le sarak ajouta :
 
 – Quelle importance, sarak ? Le soleil monte, les ballons entrent dans le défilé : c’est déjà du passé.
 
-– Le passé... pourquoi n’explorez-vous pas le passé ?
+– Le passé… pourquoi n’explorez-vous pas le passé ?
 
 – Si nous le pouvions, sarak Barbe-d’Or, nous ne serions ici ni l’un ni l’autre. Je nous aurais fait éviter la terre d’Axilane et ton pays vivrait peut-être en paix. répondit amèrement Sidonel.
 
@@ -59,11 +59,11 @@ Je veux m’assurer qu'elle est encore vivante.
 
 Et les jours passaient, désespérément lents. Tarano ne cessait de répéter :
 
-– Si nous nous enfuyons, Sidonel sera libre : le sarak ne pourra plus faire pression sur lui... Il s’échappera au premier voyage qu'il fera vers l’avenir. Il nous attendra... Libérons-nous avant qu'ils ne reviennent. Enfin, il eut une idée.
+– Si nous nous enfuyons, Sidonel sera libre : le sarak ne pourra plus faire pression sur lui… Il s’échappera au premier voyage qu'il fera vers l’avenir. Il nous attendra… Libérons-nous avant qu'ils ne reviennent. Enfin, il eut une idée.
 
 Quand Gorok les inspecta pour le soir, Camperolle lui dit :
 
-– Ami, pourquoi ne pas nous distraire... est-ce défendu ?
+– Ami, pourquoi ne pas nous distraire… est-ce défendu ?
 
 – Non, dit Gorok.
 
@@ -71,7 +71,7 @@ Quand Gorok les inspecta pour le soir, Camperolle lui dit :
 
 – Mais les gardes sont à souper. Il n’y a qu'un homme dans le couloir, dit encore naïvement Gorok. Je dois d’abord appeler les autres.
 
-– Il vaut mieux qu'ils ne sachent pas que tu te divertís avec nous... Tiens, regarde Ilouri qui commence à jongler.
+– Il vaut mieux qu'ils ne sachent pas que tu te divertís avec nous… Tiens, regarde Ilouri qui commence à jongler.
 
 En effet, la jeune femme, tout sourire, jonglait avec des balles de couleur et chacune des balles en s’élevant émettait une note longue, vibrante comme si la corde d’un instrument invisible était pincée. Les sons partaient en arabesques colorées : émerveillé, Gorok s’assit sur un tabouret, ne bougea plus.
 
@@ -117,7 +117,7 @@ Enfin le panneau massif s’ouvrit.
 
 – Les gardes sont en bas, mais ils ne vont pas tarder a venir, dit llouri en l’entraînant dans l”escalier.
 
-– A l’étage de la salle du trône. un passage mène au jardin... De là, on peut gagner le plateau ! Le sarak m’a emmenée en promenade une fois...
+– A l’étage de la salle du trône. un passage mène au jardin… De là, on peut gagner le plateau ! Le sarak m’a emmenée en promenade une fois…
 
 Comme Camperolle grimpait, inquiet, Bambrille lui enjoignit de faire rapidement monter les autres, tout en enfilant sa robe de femme-oiseau par-dessus la tunique qu'elle portait.
 
@@ -127,7 +127,7 @@ Enfin réunis, sans s’attarder dans la joie des retrouvailles, ils se mirent e
 
 – Ils sont bien longs ce soir, à nous relever ! dit l’un. Et l’autre répondit :
 
-– Peut-être Gorok s’attarde-t-il à parler avec eux ? Tout en bavardant, les deux hommes approchèrent jusqu'au coin où se dissimulaient les baladins, puis ils retournèrent sur leurs pas. Quand ils disparurent, longeant la façade opposée, Camperolle précautionneusement reprit sa marche. Les autres l’imitèrent... Soulevée par sa robe, Bambrille touchait à peine le sol. Ils atteignirent le plateau alors que des bruits, des cris s’échappaient de la forteresse. Les fugitifs trouvèrent le sentier que Sidonel avait emprunté au printemps. Ils se cachèrent dans la grotte en attendant le jour. Au matin, ils virent que le chemin se perdait dans la campagne et que du château, on ne pouvait pas les voir. Ils se mirent en route, le cœur presque allègre, bien qu'ils fussent contraints de fuir à pied et sans vivres.
+– Peut-être Gorok s’attarde-t-il à parler avec eux ? Tout en bavardant, les deux hommes approchèrent jusqu'au coin où se dissimulaient les baladins, puis ils retournèrent sur leurs pas. Quand ils disparurent, longeant la façade opposée, Camperolle précautionneusement reprit sa marche. Les autres l’imitèrent… Soulevée par sa robe, Bambrille touchait à peine le sol. Ils atteignirent le plateau alors que des bruits, des cris s’échappaient de la forteresse. Les fugitifs trouvèrent le sentier que Sidonel avait emprunté au printemps. Ils se cachèrent dans la grotte en attendant le jour. Au matin, ils virent que le chemin se perdait dans la campagne et que du château, on ne pouvait pas les voir. Ils se mirent en route, le cœur presque allègre, bien qu'ils fussent contraints de fuir à pied et sans vivres.
 
 Laissant loin sur leur flanc la cité, ils prirent la direction du sud. C’était presque la fin de l’été : des poissons nageaient dans les ruisseaux, des baies sauvages mûrissaient sur les buissons ; ils ne connurent pas la faim.
 

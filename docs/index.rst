@@ -1,9 +1,11 @@
 |project| |version| (|today|)
 =============================
 
-.. centered:: Présenté par Christian Grenier
 .. centered:: lllustrations Nathaële Vogel
 .. centered:: Folio Junior Gallimard 1998
+
+.. image:: /_static/cover-tyran_axilane.jpeg
+   :align: center
 
 .. toctree::
    :maxdepth: 2

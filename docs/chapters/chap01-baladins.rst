@@ -9,27 +9,27 @@ Le père de Sidonel, Tarano, et son associé Wanolo bavardaient à l’arrière 
 
 La troupe de Tarano voyageait depuis des semaines dans une contrée qu'elle ne connaissait pas encore. La dernière bourgade rencontrée était un souvenir lointain. Il faisait froid, on avait faim, Tarano et Wanolo se demandaient si le moment de sacrifier l’une des trois volailles restantes n’arrivait point.
 
-– A quoi bon se priver plus longtemps ? disait Wanolo dans un murmure, même la nourriture des bêtes va manquer... Au moins nous reprendrions des forces.
+– A quoi bon se priver plus longtemps ? disait Wanolo dans un murmure, même la nourriture des bêtes va manquer… Au moins nous reprendrions des forces.
 
 – Pourquoi faire ? répondit Tarano. La campagne est vide, il n’y a rien à cueillir ni à chasser. Le ballon nous porte sans fatigue et regarde, ils dorment en paix, ils ne pensent pas à manger.
 
 – Tu oublies les petits, en bas. Ils marchent depuis des heures.
 
-– Il y aura des fruits séchés pour eux. Crois-moi Wanolo, jeûnons un jour de plus... qui peut nous dire si des gens habitent prés d’ici ou très loin encore ? Il faut être prudent.
+– Il y aura des fruits séchés pour eux. Crois-moi Wanolo, jeûnons un jour de plus… qui peut nous dire si des gens habitent prés d’ici ou très loin encore ? Il faut être prudent.
 
 Tarano se tut. Il y eut alors un long silence entre les deux hommes, puis Wanolo reprit en hésitant :
 
-– On pourrait... on pourrait peut-être savoir. ami...
+– On pourrait… on pourrait peut-être savoir. ami…
 
-il suffirait d’aller... Mais non. Pardonne-moi. j’allais proposer une chose stupide !
+il suffirait d’aller… Mais non. Pardonne-moi. j’allais proposer une chose stupide !
 
 Tarano sourit, comme s’il avait compris à quoi son compagnon faisait mystérieusement allusion, mais il ne dit rien. Il lâcha un instant le pan de toile qu'il derrait contre sa poitrine, pour frotter avec sa main gauche le maigre collier de barbe blanche qui ornait son visage de vieil homme. Dans la cage, non loin d’eux, les oiseaux échangèrent des coups de bec en caquetant furieusement.
 
-– Quand même, ronchonna Wanolo, je mangerais bien un petit bout d’aile...
+– Quand même, ronchonna Wanolo, je mangerais bien un petit bout d’aile…
 
 – Un petit ?
 
-– Une aile, plutôt, avec le filet, tiens... et la cuisse.
+– Une aile, plutôt, avec le filet, tiens… et la cuisse.
 
 – Eh là ! laisse-m’en un peu ! chuchota Tarano.
 
@@ -103,7 +103,7 @@ Des têtes incrédules émergeaient de l’amoncellement des couvertures : cell
 
 – Nos bêtes disparaîtront sous le fourrage !
 
-– Des tissus doux et chauds...
+– Des tissus doux et chauds…
 
 – Et des gens qui s’ennuient : beaucoup. beaucoup de gens pour se presser au spectacle !
 
@@ -111,9 +111,9 @@ Des têtes incrédules émergeaient de l’amoncellement des couvertures : cell
 
 Comme on l’approuvait à grands cris. Tarano décida :
 
-– Arrête l’attelage. Sidonel. et descendez ramasser du bois pour le feu... je m’occuperai des oiseaux avec Wanolo.
+– Arrête l’attelage. Sidonel. et descendez ramasser du bois pour le feu… je m’occuperai des oiseaux avec Wanolo.
 
-Plus tard. plus loin. le chemin se mit a monter dans les collines, en une large saignée ouverte a travers bois. On ne voyait aucune trace, la neige molle recouvrait tout. Les baladins se préparèrent à l’ascension en chaussant les sabots des boeufs avec de grosses bottes ferrées puis en attachant de longs cordages aux extrémités de la nacelle. A l’exception de Tarano au gouvernail. chacun mit pied à terre et empoigna les cordes pour empêcher le ballon de dériver vers les arbres pendant la montée...
+Plus tard. plus loin. le chemin se mit a monter dans les collines, en une large saignée ouverte a travers bois. On ne voyait aucune trace, la neige molle recouvrait tout. Les baladins se préparèrent à l’ascension en chaussant les sabots des boeufs avec de grosses bottes ferrées puis en attachant de longs cordages aux extrémités de la nacelle. A l’exception de Tarano au gouvernail. chacun mit pied à terre et empoigna les cordes pour empêcher le ballon de dériver vers les arbres pendant la montée…
 
 Ils sentirent la ville bien avant de la voir : une odeur de feu de bois qui gagnait en puissance tandis qu'ils approchaient, avec passagèrement des bouffées de parfums plus subtils, un peu piquants, qui chatouillaient agréablement les narines. Au pied de l’autre versant, en longeant une rivière gelée, ils rencontrèrent un nouveau signe de vie : une nacelle abandonnée après une chute dans le cours d’eau, dont seule la partie avant émergeait de la glace. Enfin ils découvrirent la ville, à l’entrée d’une longue vallée où elle s’adossait à des escarpements rocheux. Un rempart de rondins l’enfermait dans un demi-cercle, de nombreux aérostats flottaient à l’intérieur, environnés de fumée et dérobant les toitures. Une formidable construction de bois surplombait cette cité du haut des falaises où elle se perchait. On voyait un bâtiment principal, carré, massif et avare d’ouvertures, relié par des passerelles à trois tourelles de guet installées sur des rochers gris en colonne. L’ensemble donnait une impression de grande rudesse, que la présence des ballons multicolores tempérait à peine.
 
@@ -147,7 +147,7 @@ Et quelqu'un ajouta avec orgueil :
 
 – Pardonnez-moi, nous venons de très loin, dit Sidonel en souriant. Comment appelez-vous votre ville ?
 
-– On ne l’appelle pas, c’est la cité du sarak Tikobal Barbe-d’Or, dont tu vois le château, là-haut... répondit l’homme. (Et il ajouta avec une pointe d’inquiétude :) Tu as certainement entendu parler de lui ?
+– On ne l’appelle pas, c’est la cité du sarak Tikobal Barbe-d’Or, dont tu vois le château, là-haut… répondit l’homme. (Et il ajouta avec une pointe d’inquiétude :) Tu as certainement entendu parler de lui ?
 
 Sidonel leva les yeux vers la forteresse de bois. Des grappes de personnes se trouvaient rassemblées sur les passerelles, il vit briller des lames et des fers de lance.
 
@@ -161,7 +161,7 @@ Il y eut un long silence dans l’assistance, puis les gens les uns après les a
 
 – Ils sont fâchés ? demanda Sidonel.
 
-– Non, ils aimeraient voir le spectacle au contraire, mais il n’est pas certain que le sarak le permette. Parfois, quand des Djazilehs viennent, Barbe-d’Or les fait chasser. Le plus souvent, il veut être seul à prendre du plaisir. L’hiver est long chez nous. les distractions sont rares... le sarak se réserve les choses rares. L’homme s’appelait Bétéko. Il se montra aimable et serviable, les aidant à décharger les bagages de l’aérostat, opération fatigante, car il fallait les remplacer dans la nacelle par des sacs de terre pour lester l’appareil. Tout en travaillant, il leur apprit que deux saraks se disputaient la terre d’Axilane : Tikobal Barbe-d”Or et Thazor Tête-d’Argent dont le château se trouvait loin au nord. Ils étaient aussi cruels l’un que l’autre et. durant la belle saison, les affrontements entre leurs guerriers ne cessaient pas.
+– Non, ils aimeraient voir le spectacle au contraire, mais il n’est pas certain que le sarak le permette. Parfois, quand des Djazilehs viennent, Barbe-d’Or les fait chasser. Le plus souvent, il veut être seul à prendre du plaisir. L’hiver est long chez nous. les distractions sont rares… le sarak se réserve les choses rares. L’homme s’appelait Bétéko. Il se montra aimable et serviable, les aidant à décharger les bagages de l’aérostat, opération fatigante, car il fallait les remplacer dans la nacelle par des sacs de terre pour lester l’appareil. Tout en travaillant, il leur apprit que deux saraks se disputaient la terre d’Axilane : Tikobal Barbe-d”Or et Thazor Tête-d’Argent dont le château se trouvait loin au nord. Ils étaient aussi cruels l’un que l’autre et. durant la belle saison, les affrontements entre leurs guerriers ne cessaient pas.
 
 – Mon père raconte qu'autrefois la paix existait sur la terre d’Axilane, dit Bétéko, j`aimeraís la connaître avant de mourir. Voyez notre cité, sans les guerres je suis certain qu'elle serait plus belle encore !
 

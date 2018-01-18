@@ -15,7 +15,7 @@ Barbe-d’Or entraîna Sidonel vers l’arrière du château, et, en effet, prè
 
 Sous sa conduite, la petite troupe traversa les jardins, de terrasse en terrasse, puis grimpa par un sentier minuscule vers le sommet de la falaise qui, légèrement en retrait, surplombait la forteresse. Tout en marchant, Tikobal questionnait le baladin.
 
-– Sidonel, dis-moi... c’est bien ton nom, n’est-ce pas ? J’ai entendu la belle Bambrille t’appeler ainsi.
+– Sidonel, dis-moi… c’est bien ton nom, n’est-ce pas ? J’ai entendu la belle Bambrille t’appeler ainsi.
 
 – Oui.
 
@@ -25,7 +25,7 @@ Sous sa conduite, la petite troupe traversa les jardins, de terrasse en terrasse
 
 Barbe-d”Or eut un sourire crispé par la contrariété, mais il ne s’emporta point, remettant ce problème à plus tard.
 
-– Dommage ! dit-il... Est-il possible d’aller très loin sur le fil du temps ?
+– Dommage ! dit-il… Est-il possible d’aller très loin sur le fil du temps ?
 
 Surpris par la question, Sidonel ne répondit pas aussitôt et Barbe-d’Or se tourna vivement vers lui. découvrant l’hésitation et le trouble dans ses yeux.
 
@@ -51,13 +51,13 @@ La longueur du voyage ne change rien, ce sont plutôt les conditions de celui-ci
 
 – Encore une question : ton frère aîné ne pourrait-il te remplacer ? Il me semble en bonne santé et solidement bâti.
 
-– Je suis le seul marcheur du temps de notre troupe. Il faut un long apprentissage pour devenir un simple funambule, quant à initier quelqu'un au fil...
+– Je suis le seul marcheur du temps de notre troupe. Il faut un long apprentissage pour devenir un simple funambule, quant à initier quelqu'un au fil…
 
 seul un enfant est capable d’apprendre ; pour Camperolle, il est trop tard. (Après un temps de silence. Sidonel ajouta :) Ma mère savait. mais elle est morte depuis longtemps.
 
 Au sommet de la falaise, Sidonel découvrit une tente dressée sur le plateau qu'un vent glacial balayait. Un grand feu brûlait activé par un domestique. non loin d’une importante réserve de bois. Barbe-d’Or dit à Sidonel de se préparer pour un court trajet. Dès que le chaudron-creuset fut installé dans les flammes. Barbe-d’Or entraîna Sidonel sous la tente. Un brasero la chauffait, deux sièges de bois et une paíllasse posée sur une peau de bête la meublaient. Ils s”installèrent face à face sur les sièges, et Tikobal parla :
 
-– Je suis entouré d’imbéciles ; Gorok mis à part, je ne fais confiance à personne.Et même Gorok... Qui sait ce que pense parfois ce sacré borgne ? En tout cas, il ne me plaît guère de te voir partir dans le château, au risque d’atterrir dans les pattes d’un garde sans cervelle. Cela a pu d”ailleurs déjà se produire, tu ne m’as pas raconté grand-chose de tes voyages... peut-être m’as-tu rencontré moi, Tikobal Barbe-d’Or ?
+– Je suis entouré d’imbéciles ; Gorok mis à part, je ne fais confiance à personne.Et même Gorok… Qui sait ce que pense parfois ce sacré borgne ? En tout cas, il ne me plaît guère de te voir partir dans le château, au risque d’atterrir dans les pattes d’un garde sans cervelle. Cela a pu d”ailleurs déjà se produire, tu ne m’as pas raconté grand-chose de tes voyages… peut-être m’as-tu rencontré moi, Tikobal Barbe-d’Or ?
 
 – En effet, sarak, je t’ai trouvé sur mon chemin.
 
@@ -73,11 +73,11 @@ Au sommet de la falaise, Sidonel découvrit une tente dressée sur le plateau qu
 
 Sidonel ne répondit rien.
 
-– Encore un secret ? Très bien... Voici ce que j’attends de toi : en longeant la falaise, à cent pas vers l’est, un sentier descend dans la vallée où il aboutit près d’une grotte à l’écart de ma cité. Quand tu seras arrivé au printemps, tu emprunteras ce sentier et tu entreras dans la grotte. Tu y trouveras un bœuf. Dès aujourd'hui, la bête sera conduite là-bas et nourrie chaque jour jusqu'au début de l’été. Tu pourras l’utiliser comme monture pour te promener à travers le pays, regarder, écouter... Tu resteras le temps qu'il faudra pour apprendre ce qui peut m’intéresser.
+– Encore un secret ? Très bien… Voici ce que j’attends de toi : en longeant la falaise, à cent pas vers l’est, un sentier descend dans la vallée où il aboutit près d’une grotte à l’écart de ma cité. Quand tu seras arrivé au printemps, tu emprunteras ce sentier et tu entreras dans la grotte. Tu y trouveras un bœuf. Dès aujourd'hui, la bête sera conduite là-bas et nourrie chaque jour jusqu'au début de l’été. Tu pourras l’utiliser comme monture pour te promener à travers le pays, regarder, écouter… Tu resteras le temps qu'il faudra pour apprendre ce qui peut m’intéresser.
 
 – J’aimerais davantage de précisions, sarak, quels sont les faits qui ont le plus de prix à tes yeux ? Barbe-d’Or eut un sourire narquois et dit :
 
-– Je viens d’envoyer un messager a Thazo : Tête-d’Argent, pour lui proposer la paix à deux conditions... Essaie donc de trouver ce qu'il adviendra à la suite de ce geste généreux.
+– Je viens d’envoyer un messager a Thazo : Tête-d’Argent, pour lui proposer la paix à deux conditions… Essaie donc de trouver ce qu'il adviendra à la suite de ce geste généreux.
 
 – Ah ! sarak, tu te montres cruel avec nous et je me méfie de toi, mais voilà une mission que je remplirai d’un cœur léger si elle peut contribuer à la paix d’Axilane.
 
@@ -87,7 +87,7 @@ Sidonel ne répondit rien.
 
 – J’ai pensé que le pas paisible de cet animal te reposerait du voyage l dit Barbe-d’0r en éclatant d’un rire mauvais.
 
-Lorsqu'il s’élança sur le fil du temps, Sidonel cette fois rencontra moins de résistance dans sa progression, Il déplaçait ses pieds avec à peine plus de difficulté que s’il avait essayé de courir dans la mer le long d’une plage. Le fil remontait un tunnel aux couleurs d’améthyste changeant du violet sombre au mauve clair et aux pâles transparences. La lueur de la sortie, elle-même plus douce, ne l”éblouissait pas. Il lui sembla couvrir la durée qui séparait l’hiver du printemps en se jouant. En jaillissant à l’air libre, il s’offrit pour le plaisir une arrivée en saut périlleux. Il sourit à la face d’un énorme soleil qui traînait encore à l’horizon du matin. Il se sentait jeune, plein d’audace et d’impétuosité, en possession de tous ses moyens. Vieillir en forçant les portes du temps, allons donc ! Plus tard, peut-être un jour... En attendant, il voulait croire à la paix qui entraînerait, pensait-il, la liberté pour lui et les siens, le sarak n’ayant plus de motif sérieux de les retenir.
+Lorsqu'il s’élança sur le fil du temps, Sidonel cette fois rencontra moins de résistance dans sa progression, Il déplaçait ses pieds avec à peine plus de difficulté que s’il avait essayé de courir dans la mer le long d’une plage. Le fil remontait un tunnel aux couleurs d’améthyste changeant du violet sombre au mauve clair et aux pâles transparences. La lueur de la sortie, elle-même plus douce, ne l”éblouissait pas. Il lui sembla couvrir la durée qui séparait l’hiver du printemps en se jouant. En jaillissant à l’air libre, il s’offrit pour le plaisir une arrivée en saut périlleux. Il sourit à la face d’un énorme soleil qui traînait encore à l’horizon du matin. Il se sentait jeune, plein d’audace et d’impétuosité, en possession de tous ses moyens. Vieillir en forçant les portes du temps, allons donc ! Plus tard, peut-être un jour… En attendant, il voulait croire à la paix qui entraînerait, pensait-il, la liberté pour lui et les siens, le sarak n’ayant plus de motif sérieux de les retenir.
 
 Il regarda en arrière, à l’endroit qu'il venait de quitter. Pas de chaudron, pas de feu, simplement un cercle noirci sur la terre, dont une herbe courte grignotait déjà la frange. De la tente, il ne subsistait que trois piquets abandonnés. Sidonel allait s’éloigner, lorsque ses yeux se posèrent par hasard sur une seconde tache noire, non loin de la première. Puisqu'il foulait maintenant le sol du plateau après un bond de plusieurs mois dans l’avenir, la terre portait donc les empreintes des événements survenus depuis l’hiver. Ce nouveau rond charbonneux signifiait que l’on avait allumé un autre foyer depuis son départ. Etait-ce un feu sans relation avec lui, ou bien devait-il conclure qu'il accomplirait encore un voyage après celui-ci ?
 
@@ -117,7 +117,7 @@ Il sauta du tronc et vint à la rencontre du baladin.
 
 Sidonel frémit de joie. Ainsi le sarak allait les laisser partir !
 
-– Je... je suis seul... je me promène un peu dans la région, la troupe campe plus loin vers le sud.
+– Je… je suis seul… je me promène un peu dans la région, la troupe campe plus loin vers le sud.
 
 – J’ai plaisir à te voir après tous ces changements. tu te rappelles notre discussion ?
 
@@ -125,7 +125,7 @@ Devant la mine embarrassée de Sidonel. l’homme s’étonna :
 
 – Comment, tu ne te souviens plus de moi ?
 
-Voyons, je vous ai aidés à décharger le soir de votre arrivée... Bétéko, je m’appelle Bétéko.
+Voyons, je vous ai aidés à décharger le soir de votre arrivée… Bétéko, je m’appelle Bétéko.
 
 – Mais oui, Bétéko ! Pardonne-moi, nous voyons tant de visages nouveaux au cours de nos voyages. que nous finissons par les confondre tous, tu es l’homme qui espérait la paix sans y croire.
 
@@ -137,7 +137,7 @@ Voyons, je vous ai aidés à décharger le soir de votre arrivée... Bétéko, j
 
 – Que s’est-il passé depuis l’hiver ?
 
-– C’est le traité, Djazileh ! Les saraks d’Axilane ont réussi à s’entendre... Mais excuse-moi. il faut que j’ébranche cet arbre au plus vite. Bonne promenade ! Et Bétéko s’en retourna à sa tâche sans plus tarder. Vers la fin de la matinée, Sidonel rejoignit au milieu de la vallée l’immense ballon rond qu'il avait remarqué en descendant du plateau. Il était si volumineux, que Sidonel entra dans l’ombre qu'il projetait sur la terre avant de se trouver à portée de voix de l’équipage. Une longue file de bœufs le tirait lentement, vingt ou trente bêtes peut-être, attelées deux par deux. Au filet du ballon, tout un chargement de grumes de chêne pendait à trois mètres du sol. en guise de nacelle et de lest à la fois.
+– C’est le traité, Djazileh ! Les saraks d’Axilane ont réussi à s’entendre… Mais excuse-moi. il faut que j’ébranche cet arbre au plus vite. Bonne promenade ! Et Bétéko s’en retourna à sa tâche sans plus tarder. Vers la fin de la matinée, Sidonel rejoignit au milieu de la vallée l’immense ballon rond qu'il avait remarqué en descendant du plateau. Il était si volumineux, que Sidonel entra dans l’ombre qu'il projetait sur la terre avant de se trouver à portée de voix de l’équipage. Une longue file de bœufs le tirait lentement, vingt ou trente bêtes peut-être, attelées deux par deux. Au filet du ballon, tout un chargement de grumes de chêne pendait à trois mètres du sol. en guise de nacelle et de lest à la fois.
 
 Sidonel connaissait bien cette sorte d’aérostat géant, on pouvait en rencontrer partout dans le monde, sur les grandes pistes reliant l’Océan aux villes de l’intérieur. Dans les villages côtiers, des plongeurs allaient arracher au fond de l’eau, où elles étaient profondément enracinées, d’étranges outres végétales qui avaient la propriété de se gonfler au cours de leur existence d’un gaz merveilleusement léger. Les marchands les rassemblaient dans de vastes enveloppes, puis allaient vendre de ville en ville leur provision volante. Les outres n’étant pas éternelles, le gaz se perdait et les aérostats nécessitaient des gonflages fréquents. Leur réservoir vidé, les marchands pliaient l’enveloppe et reprenaient le chemin de l’Océan avec leur train de bœufs.
 
@@ -155,7 +155,7 @@ Sidonel mourait d’envie de rire, mais il sut se retenir pour ne pas irriter le
 
 – Quelle est la raison de cette paix ?
 
-– Tu viens de la cité et tu l’ignores l Aurais-tu les oreilles bouchées ? Où que je passe, je n’entends pas d’autre sujet de conversation. L’hiver dernier, Tikobal a proposé à Thazor de conclure la paix définitivement si ce dernier acceptait deux conditions : la première était que Tête-d’Argent lui accorde la main de sa fille. ensuite qu'il lui cède la moitie de ses terres. Un partage inégal, mais conclu par une bonne alliance...
+– Tu viens de la cité et tu l’ignores l Aurais-tu les oreilles bouchées ? Où que je passe, je n’entends pas d’autre sujet de conversation. L’hiver dernier, Tikobal a proposé à Thazor de conclure la paix définitivement si ce dernier acceptait deux conditions : la première était que Tête-d’Argent lui accorde la main de sa fille. ensuite qu'il lui cède la moitie de ses terres. Un partage inégal, mais conclu par une bonne alliance…
 
 – Et alors ?
 
@@ -173,8 +173,8 @@ Dans le tunnel du temps, le chemin du retour lui parut aussi facile qu”à l’
 
 Quand il entra dans la tente, il trouva Tikobal en tête à tête avec Gorok et déjà prévenu de son retour. Barbe-d’Or, plein de prévenance, l’invita à s’allonger sur la paillasse pour se reposer, mais Sidonel très excité voulut lui raconter son voyage aussitôt. Tikobal l’écouta en silence sans jamais l’interrompre. Quand le baladin se tut, il réfléchit un moment, le regard farouche, les lèvres pincées. Enfin il laissa tomber ces mots :
 
-– Ainsi il acceptera ! Je suis peut-être trop timide... Tikobal se leva de son siège, fit quelques pas en rond dans la tente, à nouveau absorbé par ses pensées. Il décida brusquement :
+– Ainsi il acceptera ! Je suis peut-être trop timide… Tikobal se leva de son siège, fit quelques pas en rond dans la tente, à nouveau absorbé par ses pensées. Il décida brusquement :
 
-– Tu vas rester ici jusqu'à demain. Je redescends au château pour envoyer un nouveau messager. Il se peut que je réclame encore tes services...
+– Tu vas rester ici jusqu'à demain. Je redescends au château pour envoyer un nouveau messager. Il se peut que je réclame encore tes services…
 
 .. centered:: ★★★★
