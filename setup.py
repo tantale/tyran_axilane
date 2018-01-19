@@ -21,7 +21,7 @@ def read(filename):
 setup(
     # --- identity
     name='tyran_axilane',
-    version='0.0.0',
+    version='0.1.0',
 
     # --- description
     description="Le Tyran d'axilane - Michel Grimaud - ebook",

@@ -41,7 +41,7 @@ copyright = '{0}, Tantale Solutions'.format(year)
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
-version = '0.0.0'
+version = '0.1.0'
 release = version
 version = version.rsplit('.', 1)[0]
 
