@@ -40,4 +40,4 @@ def normalize(src_path, dst_path):
 
 
 if __name__ == '__main__':
-    normalize("tyran_axilane.txt", "../target/tyran_axilane.html")
+    normalize("tyran_axilane.txt", "../target/tyran_axilane.rst")
