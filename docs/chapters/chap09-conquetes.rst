@@ -125,7 +125,7 @@ Que se produirait-il alors ? Barbe-d’Or n’avait-il pas réussi à modifier 
 
 – Pense aux richesses dont je te couvrirai, aux terres, aux biens immenses dont nous jouirons ensemble et à la confiance que je mettrai en toi ! Car je ne t’offre pas moins que de partager mon pouvoir.
 
-– Sarak, laisse-moi réfléchir. Ce que tu demandes, ce que tu proposes exigera de moi une fidélité totale. je dois la promettre d’une voix ferme et aujourd’hui je 126 ’ ne m’en sens pas capable, même dans ma triste situation.
+– Sarak, laisse-moi réfléchir. Ce que tu demandes, ce que tu proposes exigera de moi une fidélité totale. je dois la promettre d’une voix ferme et aujourd’hui je ne m’en sens pas capable, même dans ma triste situation.
 
 – Tu me tiens ce langage depuis des semaines ! Il faut te décider.
 
@@ -148,3 +148,4 @@ Il dormit deux journées et deux nuits entières à son retour, avant de pouvoir
 – Bambrille.
 
 .. centered:: ★★★★
+

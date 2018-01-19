@@ -150,3 +150,4 @@ Il reprit d’une voix dure en foudroyant Tarano du regard :
 – L’hospitalité de Tikobal Barbe-d’Or ne se refuse pas, tête ronde !
 
 .. centered:: ★★★★
+

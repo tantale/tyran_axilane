@@ -178,3 +178,4 @@ Quand il entra dans la tente, il trouva Tikobal en tête à tête avec Gorok et 
 – Tu vas rester ici jusqu'à demain. Je redescends au château pour envoyer un nouveau messager. Il se peut que je réclame encore tes services…
 
 .. centered:: ★★★★
+

@@ -212,4 +212,4 @@ epub_copyright = copyright
 epub_identifier = "9782070341139"
 epub_scheme = 'ISBN'
 epub_uid = "BookId"
-epub_cover = ('/_static/cover-tyran_axilane.jpeg', '')
+epub_cover = ('_static/cover-tyran_axilane.jpeg', '')

@@ -186,3 +186,4 @@ Les soldats, au nombre d’une dizaine, entourèrent les baladins. Avec les long
 – Tikobal Barbe-d’Or vous attend.
 
 .. centered:: ★★★★
+

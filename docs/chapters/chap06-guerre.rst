@@ -146,3 +146,4 @@ Blême de rage, le sarak hurla :
 Gorok se précipita avec une dizaine d’hommes d’armes. En quelques minutes, après une brève bousculade, Bambrille se trouva séparée de ses compagnons, malgré ses cris et ses supplications.
 
 .. centered:: ★★★★
+

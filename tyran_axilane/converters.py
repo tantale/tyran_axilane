@@ -186,6 +186,7 @@ class SectionExporter:
             line = line.replace("*", "★")
             line = line.replace("★★★★", ".. centered:: ★★★★")
             lines.append(line)
+        lines.append("")
         text = "\n\n".join(lines)
         relpath = next(self.iter_rst)
         rst_path = os.path.join(self.docs_dir, relpath)

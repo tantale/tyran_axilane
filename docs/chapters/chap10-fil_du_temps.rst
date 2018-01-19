@@ -140,3 +140,4 @@ Cependant sa mémoire ne fut jamais oubliée, son histoire se transmit chez les 
 L’histoire raconte aussi qu'après le départ de Sidonel, sa compagne Bambrille ne dansa plus jamais.
 
 .. centered:: ★★★★
+
