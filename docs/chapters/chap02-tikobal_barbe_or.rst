@@ -131,9 +131,9 @@ Wanolo et Sidonel s’empressèrent de libérer Camperolle, sans oser lui demand
 
 – Montre toujours…
 
-Ibril et Clarine, les larmes aux yeux après l’humiliation de leur père, accomplirent ce soir-là des prouesses, ils prirent des risques insensés dans leur périlleux numéro à la corde raide. Tikobal daigna lever un sourcil lorsque les deux enfants tendus comme des arcs entamérent une vertigineuse toupie, la tête en bas. Libérée d’une longue torsion préalable, la corde tournait entraînant les petits acrobates dans une ronde effrénée.
+Ibril et Clarine, les larmes aux yeux après l’humiliation de leur père, accomplirent ce soir-là des prouesses, ils prirent des risques insensés dans leur périlleux numéro à la corde raide. Tikobal daigna lever un sourcil lorsque les deux enfants tendus comme des arcs entamèrent une vertigineuse toupie, la tête en bas. Libérée d’une longue torsion préalable, la corde tournait entraînant les petits acrobates dans une ronde effrénée.
 
-– Autre chose l exigea Tikobal tandis qu'ils tournaient encore. Et toi, vieille barbe. que sais-tu faire ? Tarano, son calme retrouvé, enfila le grand manteau bleu que lui tendait llouri. puis s’étant brièvement incliné devant le sarak, il croisa ses bras, le fixa de ses yeux jaunes sans peur.
+– Autre chose l exigea Tikobal tandis qu'ils tournaient encore. Et toi, vieille barbe. que sais-tu faire ? Tarano, son calme retrouvé, enfila le grand manteau bleu que lui tendait Ilouri. puis s’étant brièvement incliné devant le sarak, il croisa ses bras, le fixa de ses yeux jaunes sans peur.
 
 – Eh bien ! s’impatienta Barbe-d’Or.
 
@@ -221,7 +221,7 @@ Tarano haussa les épaules et répondit :
 
 – Sarak Tikobal, tu ne peux faire cela ! Il gèle dehors et nous sommes nus, nous avons faim. dit Tarano.
 
-Il ajouta d’une voix basse qui tremblait : Je me courbe devant toi et te supplie, pas pour moi, mais pour eux tous. Laísse-nous au moins repartir comme nous sommes venus.
+Il ajouta d’une voix basse qui tremblait : Je me courbe devant toi et te supplie, pas pour moi, mais pour eux tous. Laisse-nous au moins repartir comme nous sommes venus.
 
 – Ah, ah ! jubila Tikobal en se levant de table. Tes vilains yeux jaunes se soumettent enfin ! Qu`es-tu prêt encore à supporter pour sauver les tiens ?
 
@@ -243,7 +243,7 @@ Sidonel avait bondi en criant et saisi les lanières au vol.
 
 – Sarak, écoute-moi… Si tu promets de nous laisser repartir avec nos biens, je te montrerai une merveille qu'aucun homme de ta race n’a jamais contemplée.
 
-– Non, Sídonel, il ne faut pas ! gémit Tarano.
+– Non, Sidonel, il ne faut pas ! gémit Tarano.
 
 Intrigué, Tikobal baissa les bras et dit :
 

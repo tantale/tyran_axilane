@@ -7,7 +7,7 @@ Le souffle court, les tempes battantes, un goût de fer dans la bouche, Sidonel 
 
 Le sarak était arrivé à la tente au lever du jour pour lui ordonner de partir dès que possible.
 
-– Retourne au printemps, regarde, écoute et reviens me dire ce que tu auras appris l ll n’eut pas besoin de lui rappeler qu'il tenait les siens en otages, ses yeux méchants le disaient assez. Cependant il lui lança encore, railleur :
+– Retourne au printemps, regarde, écoute et reviens me dire ce que tu auras appris l il n’eut pas besoin de lui rappeler qu'il tenait les siens en otages, ses yeux méchants le disaient assez. Cependant il lui lança encore, railleur :
 
 – Moi qui n’ai pas d’amour, je ne serai jamais pris au piège comme toi !
 
@@ -19,13 +19,13 @@ Le même printemps ? Sidonel regarda alentour intrigué. Quelque chose d’ind�
 
 Troublé, Sidonel descendit dans la vallée. Déjà il put remarquer au cours de la marche des changements importants. La cité paraissait engourdie malgré la douceur du jour. Peu de fumée s’élevait, et seulement une demi-douzaine d’aerostats flottaient autour des mâts de la place. Il reconnut sans peine le bon vieux ballon des siens, dont l’enveloppe orange commençait à se dégonfler, faisant des plis comme une fleur qui se fane. Ainsi dans ce nouveau printemps. Tikobal les tenait encore prisonniers. Au loin une troupe d”hommes s’éloignait en bon ordre. Sidonel ne voulait pas y croire, mais cela ressemblait fort à un ordre de guerre. Il vit aussi passer dans le ciel, très haut, un aérostat en perdition. Sous la nacelle les brides d’attelage pendaient rompues, des hommes criaient à bord et deux d’entre eux se démenaient en escaladant le filet, dans l’espoir certainement d’atteindre l’enveloppe pour libérer quelques outres de gaz, afin de perdre de l’altitude. Sidonel nota les couleurs verte et jaune du ballon, ne doutant pas que le sarak aimerait les connaître, pour savoir s’il appartenait à son camp ou à celui de son rival. Le bœuf roux lui, restait fidèle à son étable. Sidonel le détacha et prit le même chemin que la fois précédente. Il longea les champs de blé en herbe bouleversés par des centaines d’empreintes de sabots, des champs piétinés aux récoltes tristement compromises. Il se rendit près du bosquet où travaillait Bétéko dans son souvenir. La terre qui le bordait ne portait que quelques sillons, le dernier demeurait inachevé et finissait dans les friches. Mettant pied à terre, il traversa les mauvaises herbes. les orties. les ronces et entra dans le petit bois.
 
-– Bétéko l Bétéko ! appela-t-il avec un espoir déraisonnable, quand tout indiquait que Béteko ne viendrait jamais travailler ici. Il eut beau chercher, il ne trouva ni outil ni traces de pas. L’arbre qu'il avait vu tomber se dressait majestueusement dans le ciel. couvert de feuilles déjà grandes.
+– Bétéko l Bétéko ! appela-t-il avec un espoir déraisonnable, quand tout indiquait que Bétéko ne viendrait jamais travailler ici. Il eut beau chercher, il ne trouva ni outil ni traces de pas. L’arbre qu'il avait vu tomber se dressait majestueusement dans le ciel. couvert de feuilles déjà grandes.
 
 Sidonel repartit plus loin. Il dépassa les limites de la vallée, entra dans une autre vallée en longeant une belle rivière. Ce qu'il vit alors lui serra le cœur. Des dizaines d’aérostats multicolores se livraient bataille au-dessus d’une vaste plaine, dans une mêlée confuse. Par instants, des cris de bêtes, des clameurs humaines parvenaient jusqu'à lui. Un peu à l’écart du gros des combattants, un flottant de transport, énorme saucisse pataude, tenait tête aux assauts de plusieurs appareils plus fins. Des archers tiraient sans relâche depuis la nacelle. Les assaillants tournaient autour de lui ou prenaient de l’élan pour heurter son enveloppe avec l’éperon qui terminait leurs ballons en fuseaux. Une charge mieux conduite provoqua une déchirure dans l’enveloppe du flottant et des dizaines d’outres pâles s’envolèrent, filèrent en grappes vers les nues. Ailleurs, des nacelles légères glissaient rapidement, tirées par des meutes de hurlants, animaux à moitié sauvages, que les Djazilehs n’aimaient guère. A bord de ces nacelles aux équipages réduits, on maniait de longues lances terminées par de l’étoupe enflammée. Cette méthode de combat devait manquer d’efficacité, car de longues minutes passèrent avant qu'un ballon ne s’embrasât.
 
 Sidonel était atterré. Il regardait de tous côtés dans la plaine, et de tous côtés, il découvrait la guerre. Au sommet d’une petite colline, il remarqua un hameau d’où quelques personnes observaient ce gâchis. Il poussa son bœuf en avant.
 
-Une heure plus tard, après un long détour pour éviter la plaine, il atteignit le hameau : quatre maisons de bois au toiî de chaume. Deux boeufs broutaient un coin d’herbe, Sidonel entrava le sien en leur compagnie et s’en fut rejoindre les curieux. Une surprise l’attendait parmi la poignée de gens rassemblés au bout d’un sentier d’où la vue surplombait le champ de bataille. Cet homme vêtu de bleu, au collier de barbe blonde, au visage énergique sous un bonnet pointu, n’était-ce pas le marchand d’outres ?
+Une heure plus tard, après un long détour pour éviter la plaine, il atteignit le hameau : quatre maisons de bois au toit de chaume. Deux boeufs broutaient un coin d’herbe, Sidonel entrava le sien en leur compagnie et s’en fut rejoindre les curieux. Une surprise l’attendait parmi la poignée de gens rassemblés au bout d’un sentier d’où la vue surplombait le champ de bataille. Cet homme vêtu de bleu, au collier de barbe blonde, au visage énergique sous un bonnet pointu, n’était-ce pas le marchand d’outres ?
 
 – Je t’ai déjà rencontré quelque part, non ?
 
@@ -51,7 +51,7 @@ Il éclata de rire et reprit : Le jour ou ces deux-la cesseront de se battre n�
 
 – Toute la terre !
 
-– Et le château de Tête-d’Argent avec. Evidemment, Barbe-d’Or s’est montré trop gourmand. L’idée n’était pas mauvaise, mais il aurait du se contenter de la moitié du pays. Enfin ce n’est pas moi qui m’en plaindrai ! Regarde toutes ces outres de gaz perdues ! Dès qu”ils concluront une trêve, j’irai chercher le ballon qui m’attend à trois jours de marche d’ici. Les affaires vont bien !
+– Et le château de Tête-d’Argent avec. Évidemment, Barbe-d’Or s’est montré trop gourmand. L’idée n’était pas mauvaise, mais il aurait du se contenter de la moitié du pays. Enfin ce n’est pas moi qui m’en plaindrai ! Regarde toutes ces outres de gaz perdues ! Dès qu”ils concluront une trêve, j’irai chercher le ballon qui m’attend à trois jours de marche d’ici. Les affaires vont bien !
 
 – J’ai encore une question, marchand, sais-tu si le sarak Tikobal participe à cette bataille ?
 
@@ -97,13 +97,13 @@ on dit que tu peux disparaître et que tu es aussi terrible que le sarak.
 
 – Est-ce tout ? demanda Sidonel d’un ton rieur.
 
-– On bavarde toujours trop, bien sûr, mais il n`em pêche que les gardes du château répètent partout : Barbe-d’0r va gagner la guerre grâce au Djazileh !
+– On bavarde toujours trop, bien sûr, mais il n`en pêche que les gardes du château répètent partout : Barbe-d’or va gagner la guerre grâce au Djazileh !
 
 – Vois-tu mon ami, si j’étais le grand magicien que tu crois, je serais déjà loin de la terre d’Axilane, avec les miens que le sarak retient prisonniers !
 
 – Est-ce vrai qu'il est amoureux d’une jeune fille de ta troupe ?
 
-Sidonel ressentít un grand creux dans sa poitrine. Il se mordit la lèvre pour ne pas retenir une exclamation.
+Sidonel ressentit un grand creux dans sa poitrine. Il se mordit la lèvre pour ne pas retenir une exclamation.
 
 – Ce sont des bavardages ridicules ! dit-il après un temps de silence. (Puis il ajouta :) L’autre nuit j”ai fait un rêve, Bétéko… Un rêve trompeur hélas, mais beau. La paix régnait et tu t’en réjouissais. Tu avais ensemencé la petite terre de la plaine, celle qui borde un bosquet. Plein de joie ensuite, tu venais de te décider à défricher justement ce coin de bois, quand je me suis éveillé… Qu'en penses-tu ?
 
@@ -113,9 +113,9 @@ Bétéko lui répondit, le regardant avec étonnement :
 
 on peut en parler, mais jamais elle n’arrivera.
 
-Sidonel remonta sur le plateau. Le crépuscule commençait à peine à teindre de pourpre le couchant d’AxiIane, quand il fit ses premiers pas sur le fil. La nuit était noire lorsqu'il ressortit du tunnel, épuisé, foulant la neige de l’hiver. On l’emmena à l’abri de la tente en le soutenant, on le coucha sur la paillasse.
+Sidonel remonta sur le plateau. Le crépuscule commençait à peine à teindre de pourpre le couchant d’Axilane, quand il fit ses premiers pas sur le fil. La nuit était noire lorsqu'il ressortit du tunnel, épuisé, foulant la neige de l’hiver. On l’emmena à l’abri de la tente en le soutenant, on le coucha sur la paillasse.
 
-– Alors Sidonel, qu'as-tu vu ? murmura Barbe-dOr avec impatience à ses oreilles.
+– Alors Sidonel, qu'as-tu vu ? murmura Barbe-d’Or avec impatience à ses oreilles.
 
 – J’ai vu, la guerre, la guerre partout, sarak l parvint à dire le baladin.
 

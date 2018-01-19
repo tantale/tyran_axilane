@@ -23,7 +23,7 @@ Tarano se tut. Il y eut alors un long silence entre les deux hommes, puis Wanolo
 
 il suffirait d’aller… Mais non. Pardonne-moi. j’allais proposer une chose stupide !
 
-Tarano sourit, comme s’il avait compris à quoi son compagnon faisait mystérieusement allusion, mais il ne dit rien. Il lâcha un instant le pan de toile qu'il derrait contre sa poitrine, pour frotter avec sa main gauche le maigre collier de barbe blanche qui ornait son visage de vieil homme. Dans la cage, non loin d’eux, les oiseaux échangèrent des coups de bec en caquetant furieusement.
+Tarano sourit, comme s’il avait compris à quoi son compagnon faisait mystérieusement allusion, mais il ne dit rien. Il lâcha un instant le pan de toile qu'il serrait contre sa poitrine, pour frotter avec sa main gauche le maigre collier de barbe blanche qui ornait son visage de vieil homme. Dans la cage, non loin d’eux, les oiseaux échangèrent des coups de bec en caquetant furieusement.
 
 – Quand même, ronchonna Wanolo, je mangerais bien un petit bout d’aile…
 
@@ -59,7 +59,7 @@ C’était Clarine, la fillette qui ouvrait la marche des bœufs avec Ibril. Tou
 
 – Je suis fatiguée, est-ce que je peux monter ?
 
-Sidonel hésita un instant. Si elle abandonnait, lbril ne tarderait pas à se lasser à son tour. Il y eut un mouvement dans la nacelle, Bambrille vint s’appuyer au bordage.
+Sidonel hésita un instant. Si elle abandonnait, Ibril ne tarderait pas à se lasser à son tour. Il y eut un mouvement dans la nacelle, Bambrille vint s’appuyer au bordage.
 
 – Je vais la remplacer, dit-elle.
 
@@ -71,7 +71,7 @@ Elle ramassa l”échelle de corde posée en paquet sur le plancher et la jeta p
 
 – J’ai faim, dit-elle en se postant prés de Sidonel.
 
-– Il y a des fruits secs pour toi et llouri. mais tu devrais l’attendre.
+– Il y a des fruits secs pour toi et Ilouri. mais tu devrais l’attendre.
 
 – Tu crois ?
 
@@ -89,9 +89,9 @@ A l”horizon les panaches se faisaient plus précis et maintenant qu'ils étaie
 
 – Elle a raison, mon père, dit-il.
 
-Des têtes incrédules émergeaient de l’amoncellement des couvertures : celles de Camperolle. le frère aîné de Sidonel, et de sa femme, llouri.
+Des têtes incrédules émergeaient de l’amoncellement des couvertures : celles de Camperolle. le frère aîné de Sidonel, et de sa femme, Ilouri.
 
-– J’ai bien entendu, il y a du monde par ici ? questionna llouri.
+– J’ai bien entendu, il y a du monde par ici ? questionna Ilouri.
 
 – Oui, oui ! Clarine a vu un village, dit Wanolo.
 
@@ -117,7 +117,7 @@ Plus tard. plus loin. le chemin se mit a monter dans les collines, en une large 
 
 Ils sentirent la ville bien avant de la voir : une odeur de feu de bois qui gagnait en puissance tandis qu'ils approchaient, avec passagèrement des bouffées de parfums plus subtils, un peu piquants, qui chatouillaient agréablement les narines. Au pied de l’autre versant, en longeant une rivière gelée, ils rencontrèrent un nouveau signe de vie : une nacelle abandonnée après une chute dans le cours d’eau, dont seule la partie avant émergeait de la glace. Enfin ils découvrirent la ville, à l’entrée d’une longue vallée où elle s’adossait à des escarpements rocheux. Un rempart de rondins l’enfermait dans un demi-cercle, de nombreux aérostats flottaient à l’intérieur, environnés de fumée et dérobant les toitures. Une formidable construction de bois surplombait cette cité du haut des falaises où elle se perchait. On voyait un bâtiment principal, carré, massif et avare d’ouvertures, relié par des passerelles à trois tourelles de guet installées sur des rochers gris en colonne. L’ensemble donnait une impression de grande rudesse, que la présence des ballons multicolores tempérait à peine.
 
-Quand ils se présentèrent à l’immense porte ouverte à deux battants, les baladins furent accueillis par une petite foule de gens emmitouflés dans des pelísses. Les visages étaient rougeauds et pas très amicaux, mais de la curiosité se lisait dans tous les yeux. On s’ennuyait ferme ici durant le long hiver. Sidonel et les siens s’agrippaient aux cordages du ballon, luttant pied à pied pour le stabiliser, car il menaçait d’aller se coller sous un énorme aérostat de transport lourd. Personne ne semblait disposé à les aider.
+Quand ils se présentèrent à l’immense porte ouverte à deux battants, les baladins furent accueillis par une petite foule de gens emmitouflés dans des pelisses. Les visages étaient rougeauds et pas très amicaux, mais de la curiosité se lisait dans tous les yeux. On s’ennuyait ferme ici durant le long hiver. Sidonel et les siens s’agrippaient aux cordages du ballon, luttant pied à pied pour le stabiliser, car il menaçait d’aller se coller sous un énorme aérostat de transport lourd. Personne ne semblait disposé à les aider.
 
 – S”il vous plaît ! s’il vous plaît ! criait Bambrille tournée vers les badauds.
 
@@ -169,13 +169,13 @@ Les baladins regardèrent la centaine de petites maisons de bois tassées contre
 
 – Oui, sûrement elle deviendrait plus belle, dit doucement Tarano.
 
-Beteko lui jeta un regard soupçonneux. puis il lança :
+Bétéko lui jeta un regard soupçonneux. puis il lança :
 
 – Alors je crois qu'on en parlerait vraiment jusqu'au bout de la terre !
 
 A ce moment, des hommes armés surgirent de la cité et se dirigèrent a longues enjambées vers eux.
 
-– Les gardes du sarak l s’inquiéta Betéko. il faut que je parte.
+– Les gardes du sarak l s’inquiéta Bétéko. il faut que je parte.
 
 Sans autre explication, il se mit à courir vers les maisons en faisant un large détour pour éviter les gardes.
 

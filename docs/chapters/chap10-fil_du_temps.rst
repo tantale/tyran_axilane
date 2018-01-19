@@ -7,7 +7,7 @@ L’hiver couvrait la terre de neige, givrait les arbres. glaçait les ruisseaux
 
 Chaque après-midi, Tikobal Barbe-d’Or recevait les émissaires des provinces conquises, pour des suppliques, des offrandes, ou pour de simples raisons d’administration. Ce jour-là, Tikobal, souffrant de digestion difficile, ne voulait voir personne. Sidonel dans sa grande cape noire doublée de fourrure errait le long des couloirs et des galeries. Le sarak se reposait dans sa chambre, les serviteurs étaient aux cuisines, Gorok à la chasse, les gardes somnolaient dans leur salle. Sidonel allait et venait, personne ne lui prétait attention, tant on avait l’habitude de le voir déambuler sans but. Il fit plusieurs voyages jusqu'à la salle du trône dans laquelle brûlait un bon feu. Son chaudron chauffait là, tranquillement, depuis un certain temps déjà. Sidonel attisait la flamme à chacun de ses passages. Il espérait obtenir très rapidement satisfaction, car il avait mis peu de sable dans le creuset. Pour ce qu'il comptait faire un long fil n’était pas nécessaire. Il trompait son impatience en marchant, ce qui lui permettait de surveiller la maison.
 
-Enfin la fusion du sable dans le chaudron lui parut convenable. Sidonel sortit son arc et la flèche dissimulés derrière une tenture. Il dut incliner le récipient pour y plonger le projectile, car il contenait peu de matière en ébullition. Comme il l’avait mille fois prévu dans les interminables calculs qui occupaient ses jours, tirant derrière la flèche un fil pâteux et incandescent, posément, il pivota sur lui-même en entoisant l’arc, visa le trône et décocha son trait. Depuis le creuset, la ligne rougeoyante se dévida, la flèche s’évanouit dans une explosion de lumière. Sidonel attendit l’éclat sonore qui devait suivre, en guettant au plafond l’ouverture possible du judas de Barbe-d’Or, mais rien ne bougea après le bruit. Le fil flottait dans l’air et disparaissait abruptement deux mètres avant le siège élevé. L’essentiel de sa tâche était terminé. lnutile d’aller voir ce qui arriverait à l’autre bout. La flèche appartenait désormais au futur : dans quelques semaines, elle se matérialiserait soudain avec son fil devant le trône et frapperait… Satisfait, Sidonel se donna quelques instants de repos avant de supprimer toute trace de ce qu'il venait d’accomplir.
+Enfin la fusion du sable dans le chaudron lui parut convenable. Sidonel sortit son arc et la flèche dissimulés derrière une tenture. Il dut incliner le récipient pour y plonger le projectile, car il contenait peu de matière en ébullition. Comme il l’avait mille fois prévu dans les interminables calculs qui occupaient ses jours, tirant derrière la flèche un fil pâteux et incandescent, posément, il pivota sur lui-même en entoisant l’arc, visa le trône et décocha son trait. Depuis le creuset, la ligne rougeoyante se dévida, la flèche s’évanouit dans une explosion de lumière. Sidonel attendit l’éclat sonore qui devait suivre, en guettant au plafond l’ouverture possible du judas de Barbe-d’Or, mais rien ne bougea après le bruit. Le fil flottait dans l’air et disparaissait abruptement deux mètres avant le siège élevé. L’essentiel de sa tâche était terminé. inutile d’aller voir ce qui arriverait à l’autre bout. La flèche appartenait désormais au futur : dans quelques semaines, elle se matérialiserait soudain avec son fil devant le trône et frapperait… Satisfait, Sidonel se donna quelques instants de repos avant de supprimer toute trace de ce qu'il venait d’accomplir.
 
 Tikobal le trouva près du feu, se chauffant comme un vieil homme frileux.
 
@@ -49,9 +49,9 @@ Sidonel sourit sans plaisir et répondit :
 
 – Tu prends tout, mais tu ne possèdes rien. Pourquoi en tirerais-tu du bonheur ? Moi, sarak. parfois j’ai presque envie de te plaindre.
 
-Tikobal s’en alla furieux et Sidonel écouta le chant lourd des bottes qui s’éloignait. Il le suivit dans l’escalier puis dans la galerie et à l’étage au-dessus. Alors il se leva. Il descendit vers les niveaux inférieurs, passa devant la salle des gardes, s’enfonça dans les protondeurs de la forteresse. Çà et là, quelques flambeaux fichés sur les parois donnaient aux caves creusées à même le rocher une lumière avare et lugubre. Il circula dans la forêt de piliers sur laquelle reposait toute la bâtisse pour arriver au fond, aux grilles énormes derrière lesquelles ses compagnons se trouvaient enfermés. Les enfants dormaient contre leur mère, blottis. Camperolle arpentait la pièce comme un fauve en cage. Wanolo et Tarano se tenaient sur un banc, unique meuble de ce cachot, et Bambrille était près d’eux. Quand elle vit Sidonel, elle vint coller son front aux barreaux.
+Tikobal s’en alla furieux et Sidonel écouta le chant lourd des bottes qui s’éloignait. Il le suivit dans l’escalier puis dans la galerie et à l’étage au-dessus. Alors il se leva. Il descendit vers les niveaux inférieurs, passa devant la salle des gardes, s’enfonça dans les profondeurs de la forteresse. Çà et là, quelques flambeaux fichés sur les parois donnaient aux caves creusées à même le rocher une lumière avare et lugubre. Il circula dans la forêt de piliers sur laquelle reposait toute la bâtisse pour arriver au fond, aux grilles énormes derrière lesquelles ses compagnons se trouvaient enfermés. Les enfants dormaient contre leur mère, blottis. Camperolle arpentait la pièce comme un fauve en cage. Wanolo et Tarano se tenaient sur un banc, unique meuble de ce cachot, et Bambrille était près d’eux. Quand elle vit Sidonel, elle vint coller son front aux barreaux.
 
-– Ecoute-moi vite, Bambrille. Les gardes m’ont vu passer, ils ne vont pas tarder à descendre… Je vais vous délivrer d’ici peu. mais j`ai besoin de toi.
+– Écoute-moi vite, Bambrille. Les gardes m’ont vu passer, ils ne vont pas tarder à descendre… Je vais vous délivrer d’ici peu. mais j`ai besoin de toi.
 
 Elle le regarda avec une tendre pitié.
 
@@ -73,7 +73,7 @@ Tarano, Camperolle s’approchèrent. Sidonel les caressa, les embrassa et s’e
 
 Jour après jour, Bambrille repoussait l’offre de Barbe-d`Or, promettant une réponse pour le lendemain. Une semaine passa ainsi, sans que rien n’advînt. Sidonel sentait Bambrille fléchir, car dans la geôle, Wanolo ne se levait plus.
 
-A la fin, excèdé, Tikobal s’écria :
+A la fin, excédé, Tikobal s’écria :
 
 – Fille noire, plus têtue qu'une pierre, veux-tu que je sorte les tiens du cachot tout de suite ? Gorok ! va chercher les prisonniers l Bambrille trembla sans répondre. Au regard que lui adressa Sidonel, elle comprit qu'il fallait tenir encore. Poussés par les gardes, les baladins entrèrent dans la salle. Ils clignaient des yeux, pitoyables avec leurs vêtements souillés. Ils étaient maigres.
 
@@ -93,19 +93,19 @@ Barbe-d’Or, son casque de bronze sur la tête, vêtu de sa tunique d’écaill
 
 Comme les malheureux déboutés voulaient s’en aller, le sarak leur dit :
 
-– Restez mes serviteurs, aujourd'hui est un jour de fête : je prends une épouse. En mon absence, elle gérera mes biens, vous lui obéirez comme à moimême… Va la chercher, Gorok.
+– Restez mes serviteurs, aujourd'hui est un jour de fête : je prends une épouse. En mon absence, elle gérera mes biens, vous lui obéirez comme à moi-même… Va la chercher, Gorok.
 
-Ebahis, les visiteurs se tournèrent vers la porte pour voir arriver celle qui allait les gouverner. Quand elle parut, ils s’écartèrent mais n’osèrent pas exprimer leur étonnement que l’élue fût une femme noire du peuple Djazileh. La jeune femme avançait droite et raide, les yeux fixés devant elle. On la trouva belle, quelques-uns dirent qu'elle semblait une morte éveillée. Bambrílle portait une robe blanche qui lui tombait aux pieds et ses cheveux frisés, dénoués, couvraient ses épaules. Ses joues sombres avaient des reflets de cuivre, ses yeux d’or jaune ne voyaient personne.
+Ébahis, les visiteurs se tournèrent vers la porte pour voir arriver celle qui allait les gouverner. Quand elle parut, ils s’écartèrent mais n’osèrent pas exprimer leur étonnement que l’élue fût une femme noire du peuple Djazileh. La jeune femme avançait droite et raide, les yeux fixés devant elle. On la trouva belle, quelques-uns dirent qu'elle semblait une morte éveillée. Bambrille portait une robe blanche qui lui tombait aux pieds et ses cheveux frisés, dénoués, couvraient ses épaules. Ses joues sombres avaient des reflets de cuivre, ses yeux d’or jaune ne voyaient personne.
 
 La voix de Tikobal tonna depuis le trône.
 
-– Alors, Bambrílle, le délai est écoulé, donne-moi ta réponse.
+– Alors, Bambrille, le délai est écoulé, donne-moi ta réponse.
 
 L’assistance surprise d’un ton aussi menaçant s’écarta davantage, laissant la jeune femme seule au milieu de la salle. Sidonel se glissa au premier plan pour la voir.
 
-– C’est oui, sarak ! dit Bambrílle sans lever les yeux ni la tête.
+– C’est oui, sarak ! dit Bambrille sans lever les yeux ni la tête.
 
-– Alors monte ici près de moi ! triompha Bar be-d’Or, et il éclata de rire.
+– Alors monte ici près de moi ! triompha Barbe-d’Or, et il éclata de rire.
 
 – Non ! hurla Sidonel en se précipitant sur Bambrille.
 

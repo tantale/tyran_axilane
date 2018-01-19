@@ -1,4 +1,4 @@
-Chapitre IX – LES CONQUETES
+Chapitre IX – LES CONQUÊTES
 ===========================
 
 Un calme étrange s’emparait de la terre d’Axilane, mais ce n’était pas la paix qui commençait. Le pays s’enfonçait plutôt dans une torpeur glorieuse.
@@ -51,7 +51,7 @@ Quand Sidonel décocha sa flèche, ce fut avec tant de fureur et de désespoir m
 
 Il traversa un tunnel glauque, parcouru de merveilleux chatoiements d’émeraude et déboucha dans la tiède douceur d’une fin de journée. Il faisait très clair encore. Sidonel sourit en songeant que malgré tout, il avait atteint un été. Mais quel été ?
 
-Sidonel regardait autour de lui sans rien reconnaître du paysage qu'il venait de quitter. Plus de château. A la place du jardin, sous ses pieds, s’étendait l’herbe douce d’un petit pré. Des bois s’avançaient, proches. Etonné. il se mit en route à travers la plaine, vers les collines lointaines qui le séparaient de la vallée où se trouvait la cité de Barbe-d’Or. Des trompes lançaient un appel quelque part dans les bois. Sidonel marcha près d’une heure sans rencontrer personne puis soudain dans son dos éclatèrent les cris familiers et déplaisants des hurlants en pleine course. Il fit halte, méfiant, pour voir un aérostat arriver dans sa direction. Ce ballon était diune forme très différente de ceux de l’époque que Sidonel venait de quitter. Il comportait deux réservoirs de gaz superposés. celui du haut paraissant plus petit et très effilé, tandis que l’enveloppe du ballon inférieur disparaissait sous un incroyable habillage de plaques décoratives. A mesure que l’aérostat approchait, Sidonel distinguait davantage de détails dans les ornements : des volutes dorées en relief, des fleurs, des feuillages… A l’avant de la nacelle, une bizarre tête noire sculptée serrait dans sa bouche une rose rouge. Sidonel remarqua cela avec effroi et, quand l’appareil ralentit, tandis que le pilote retenait l’ardeur des hurlants. il se demanda avec angoisse s’il n’allait pas se trouver en face de lui-même, un Sidonel de l’avenir.
+Sidonel regardait autour de lui sans rien reconnaître du paysage qu'il venait de quitter. Plus de château. A la place du jardin, sous ses pieds, s’étendait l’herbe douce d’un petit pré. Des bois s’avançaient, proches. Étonné. il se mit en route à travers la plaine, vers les collines lointaines qui le séparaient de la vallée où se trouvait la cité de Barbe-d’Or. Des trompes lançaient un appel quelque part dans les bois. Sidonel marcha près d’une heure sans rencontrer personne puis soudain dans son dos éclatèrent les cris familiers et déplaisants des hurlants en pleine course. Il fit halte, méfiant, pour voir un aérostat arriver dans sa direction. Ce ballon était d’urne forme très différente de ceux de l’époque que Sidonel venait de quitter. Il comportait deux réservoirs de gaz superposés. celui du haut paraissant plus petit et très effilé, tandis que l’enveloppe du ballon inférieur disparaissait sous un incroyable habillage de plaques décoratives. A mesure que l’aérostat approchait, Sidonel distinguait davantage de détails dans les ornements : des volutes dorées en relief, des fleurs, des feuillages… A l’avant de la nacelle, une bizarre tête noire sculptée serrait dans sa bouche une rose rouge. Sidonel remarqua cela avec effroi et, quand l’appareil ralentit, tandis que le pilote retenait l’ardeur des hurlants. il se demanda avec angoisse s’il n’allait pas se trouver en face de lui-même, un Sidonel de l’avenir.
 
 « Non ! c’est impossible ! » pensa-t-il avec force.
 
@@ -73,7 +73,7 @@ Gorok resta silencieux quelques instants, il passa une main dans les cheveux bla
 
 « Ne dis plus rien Gorok, le coupa Sidonel. C’est vrai je viens du passé, mais je ne veux pas connaître mon propre destin. En vérité, tu m’as déjà appris beaucoup de choses ! (Sidonel eut un rire forcé, puis il ajouta : .J’aimerais bien savoir ce que représente cette figure à l’avant de ta nacelle.
 
-« Mais c`est ta têtel Tu ne te reconnais pas ?
+« Mais c`est ta tête ! Tu ne te reconnais pas ?
 
 Regarde, c’est rond, c’est noir, avec des yeux dorés, et puis il y a cette rose rouge que tu as été chercher pour moi au printemps. Mon aérostat s’appelle le Baladin du temps… j’espère que cela ne te fâche pas ?
 

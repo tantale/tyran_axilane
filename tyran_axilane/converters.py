@@ -1,8 +1,11 @@
 # coding: utf-8
+import collections
 import io
 import logging
 import os
 import re
+
+import tyran_axilane.dictionary
 
 LOG = logging.getLogger(__name__)
 
@@ -193,6 +196,164 @@ class SectionExporter:
         return content
 
 
+def check_spelling(content):
+    def iter_words(text_or_tags):
+        for mo in re.finditer(r"<[^>]+>|\w+", text_or_tags, flags=FLAGS):
+            text_or_tag = mo.group()
+            if not text_or_tag.startswith('<'):
+                yield text_or_tag.lower()
+
+    word_count = collections.Counter(iter_words(content))
+    for common in word_count.most_common(100):
+        LOG.info("Word '{0}' appears {1} times.".format(*common))
+
+    dictionary = tyran_axilane.dictionary.DICTIONARY
+    dictionary.update({
+        # new words
+        "axilane": "Axilane",
+        "sidonel": "Sidonel",
+        'sídonel': "Sidonel",
+        "bombok": "bombok",
+        "tarano": "Tarano",
+        "wanolo": "Wanolo",
+        "djazilehs": "Djazilehs",
+        "djazileh": "Djazileh",
+        "xorgombir": "Xorgombir",
+        "bambrille": "Bambrille",
+        'bambrílle': 'Bambrille',
+        "ibril": "Ibril",
+        "ilouri": "Ilouri",
+        "camperolle": "Camperolle",
+        "sarak": "sarak",
+        "saraks": "saraks",
+        "tikobal": "Tikobal",
+        "bétéko": "Bétéko",
+        "betéko": "Bétéko",
+        "béteko": "Bétéko",
+        "beteko": "Bétéko",
+        "thazor": "Thazor",
+        "gorok": "Gorok",
+        'balodon': 'balodon',
+        'akir': 'Akir',
+
+        # fixes
+        "lbril": "Ibril",
+        "llouri": "Ilouri",
+        "pelísses": "pelisses",
+        "entamérent": "entamèrent",
+        'laísse': "laisse",
+        'oublíez': "oubliez",
+        'lajeta': 'la jeta',
+        'roseraíe': 'roseraie',
+        'éclaíra': 'éclaira',
+        'lechamp': 'le-champ',
+        'ecoute': 'écoute',
+
+        'promít': 'promit',
+        'etrange': 'étrange',
+        'll': 'il',
+        'tíkobal': 'Tikobal',
+        '0r': 'or',
+        'paíllasse': 'paillasse',
+        'etait': 'était',
+        'connaís': 'connais',
+        'toiî': 'toit',
+
+        'rondel': 'rondel',
+        'evidemment': 'évidemment',
+        'em': 'en',
+        'ressentít': 'ressentit',
+        'axiiane': 'Axilane',
+        'fenétre': 'fenêtre',
+        'ecoutez': 'écoutez',
+        'lls': 'ils',
+        'evasion': 'évasion',
+        'luimême': 'lui-même',
+        'èveilla': 'éveilla',
+        'nasion': 'nasion',
+        'divertís': 'divertis',
+        'conquetes': 'conquêtes',
+        'nasions': 'nasions',
+        'etonné': 'étonné',
+        'diune': 'd’urne',
+        'têtel': 'tête\u00a0!',
+        'entoisant': 'entoisant',
+        'lnutile': 'inutile',
+        'protondeurs': 'profondeurs',
+        'excèdé': 'excédé',
+        'moimême': 'moi-même',
+        'ebahis': 'ébahis',
+    })
+
+    # not matched
+    dictionary.update({k: k for k in [
+        "bœufs", "bœuf", "bœufs", "bœuf", "œil", "cœur", "ô",
+        "exclama",
+        "écroulent",
+        "esclaffa",
+        "quelqu",
+        "aimeraís",
+        "affairèrent",
+        "écroula",
+        "empressèrent",
+        "envola",
+        'écria',
+        'saufs',
+        'carquois',
+        'faix',
+        'refarda',
+        'flêche',
+        'entoisa',
+        'enquit',
+        'aujourd',
+        'puisqu',
+        'manœuvrer',
+        'aerostats',
+        'envolèrent',
+        'emparèrent',
+        'songeusement',
+        'arcbouté',
+        'retrouvailles',
+        'emparait',
+        'grésillaient',
+        'prétait',
+        'évanouit',
+        'enfuit',
+        'préparatif',
+        'insurgea',
+        'qu',
+
+        'iii',
+        'iv',
+        'v',
+        'vi',
+        'vii',
+        'viii',
+        'ix',
+        'x',
+    ]})
+
+    for word in word_count:
+        if word not in dictionary:
+            LOG.error("Missing word '{0}'".format(word))
+
+    def fix_error(mo):
+        w = mo.group()
+        key = w.lower()
+        if key in dictionary:
+            replace = dictionary[key]  # type: str
+            if w.isupper():
+                return replace.upper()
+            elif w.istitle():
+                return replace.title()
+            else:
+                return replace
+        else:
+            return w
+
+    return re.sub(r"\w+", fix_error, content, flags=FLAGS)
+
+
 export_sections = SectionExporter()
 
 CONVERTERS = [
@@ -205,5 +366,6 @@ CONVERTERS = [
     ('convert_word_break', convert_word_break),
     ('convert_paragraphs', convert_paragraphs),
     ('convert_typo', convert_typo),
+    ('check_spelling', check_spelling),
     ('export_sections', export_sections),
 ]

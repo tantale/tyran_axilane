@@ -55,7 +55,7 @@ La longueur du voyage ne change rien, ce sont plutôt les conditions de celui-ci
 
 seul un enfant est capable d’apprendre ; pour Camperolle, il est trop tard. (Après un temps de silence. Sidonel ajouta :) Ma mère savait. mais elle est morte depuis longtemps.
 
-Au sommet de la falaise, Sidonel découvrit une tente dressée sur le plateau qu'un vent glacial balayait. Un grand feu brûlait activé par un domestique. non loin d’une importante réserve de bois. Barbe-d’Or dit à Sidonel de se préparer pour un court trajet. Dès que le chaudron-creuset fut installé dans les flammes. Barbe-d’Or entraîna Sidonel sous la tente. Un brasero la chauffait, deux sièges de bois et une paíllasse posée sur une peau de bête la meublaient. Ils s”installèrent face à face sur les sièges, et Tikobal parla :
+Au sommet de la falaise, Sidonel découvrit une tente dressée sur le plateau qu'un vent glacial balayait. Un grand feu brûlait activé par un domestique. non loin d’une importante réserve de bois. Barbe-d’Or dit à Sidonel de se préparer pour un court trajet. Dès que le chaudron-creuset fut installé dans les flammes. Barbe-d’Or entraîna Sidonel sous la tente. Un brasero la chauffait, deux sièges de bois et une paillasse posée sur une peau de bête la meublaient. Ils s”installèrent face à face sur les sièges, et Tikobal parla :
 
 – Je suis entouré d’imbéciles ; Gorok mis à part, je ne fais confiance à personne.Et même Gorok… Qui sait ce que pense parfois ce sacré borgne ? En tout cas, il ne me plaît guère de te voir partir dans le château, au risque d’atterrir dans les pattes d’un garde sans cervelle. Cela a pu d”ailleurs déjà se produire, tu ne m’as pas raconté grand-chose de tes voyages… peut-être m’as-tu rencontré moi, Tikobal Barbe-d’Or ?
 
@@ -77,7 +77,7 @@ Sidonel ne répondit rien.
 
 – J’aimerais davantage de précisions, sarak, quels sont les faits qui ont le plus de prix à tes yeux ? Barbe-d’Or eut un sourire narquois et dit :
 
-– Je viens d’envoyer un messager a Thazo : Tête-d’Argent, pour lui proposer la paix à deux conditions… Essaie donc de trouver ce qu'il adviendra à la suite de ce geste généreux.
+– Je viens d’envoyer un messager a Thazor Tête-d’Argent, pour lui proposer la paix à deux conditions… Essaie donc de trouver ce qu'il adviendra à la suite de ce geste généreux.
 
 – Ah ! sarak, tu te montres cruel avec nous et je me méfie de toi, mais voilà une mission que je remplirai d’un cœur léger si elle peut contribuer à la paix d’Axilane.
 
@@ -85,11 +85,11 @@ Sidonel ne répondit rien.
 
 – Ne pourrais-tu me donner une autre monture qu'un bœuf ?
 
-– J’ai pensé que le pas paisible de cet animal te reposerait du voyage l dit Barbe-d’0r en éclatant d’un rire mauvais.
+– J’ai pensé que le pas paisible de cet animal te reposerait du voyage l dit Barbe-d’or en éclatant d’un rire mauvais.
 
 Lorsqu'il s’élança sur le fil du temps, Sidonel cette fois rencontra moins de résistance dans sa progression, Il déplaçait ses pieds avec à peine plus de difficulté que s’il avait essayé de courir dans la mer le long d’une plage. Le fil remontait un tunnel aux couleurs d’améthyste changeant du violet sombre au mauve clair et aux pâles transparences. La lueur de la sortie, elle-même plus douce, ne l”éblouissait pas. Il lui sembla couvrir la durée qui séparait l’hiver du printemps en se jouant. En jaillissant à l’air libre, il s’offrit pour le plaisir une arrivée en saut périlleux. Il sourit à la face d’un énorme soleil qui traînait encore à l’horizon du matin. Il se sentait jeune, plein d’audace et d’impétuosité, en possession de tous ses moyens. Vieillir en forçant les portes du temps, allons donc ! Plus tard, peut-être un jour… En attendant, il voulait croire à la paix qui entraînerait, pensait-il, la liberté pour lui et les siens, le sarak n’ayant plus de motif sérieux de les retenir.
 
-Il regarda en arrière, à l’endroit qu'il venait de quitter. Pas de chaudron, pas de feu, simplement un cercle noirci sur la terre, dont une herbe courte grignotait déjà la frange. De la tente, il ne subsistait que trois piquets abandonnés. Sidonel allait s’éloigner, lorsque ses yeux se posèrent par hasard sur une seconde tache noire, non loin de la première. Puisqu'il foulait maintenant le sol du plateau après un bond de plusieurs mois dans l’avenir, la terre portait donc les empreintes des événements survenus depuis l’hiver. Ce nouveau rond charbonneux signifiait que l’on avait allumé un autre foyer depuis son départ. Etait-ce un feu sans relation avec lui, ou bien devait-il conclure qu'il accomplirait encore un voyage après celui-ci ?
+Il regarda en arrière, à l’endroit qu'il venait de quitter. Pas de chaudron, pas de feu, simplement un cercle noirci sur la terre, dont une herbe courte grignotait déjà la frange. De la tente, il ne subsistait que trois piquets abandonnés. Sidonel allait s’éloigner, lorsque ses yeux se posèrent par hasard sur une seconde tache noire, non loin de la première. Puisqu'il foulait maintenant le sol du plateau après un bond de plusieurs mois dans l’avenir, la terre portait donc les empreintes des événements survenus depuis l’hiver. Ce nouveau rond charbonneux signifiait que l’on avait allumé un autre foyer depuis son départ. Était-ce un feu sans relation avec lui, ou bien devait-il conclure qu'il accomplirait encore un voyage après celui-ci ?
 
 Il chercha dans l’herbe des flèches de cuivre mais n”en trouva qu'une seule, fichée à quelques pas du fil translucide qu'il venait d’emprunter. A moins que l’une de ses flèches fût partie plus loin dans le temps, ce second feu ne le concernait point. Ne trouvant aucune réponse réellement satisfaisante. Sidonel s’en alla à la découverte.
 
@@ -113,7 +113,7 @@ Plus tard, il passa près d’un bosquet en bordure d’une terre cultivée qu°
 
 Il sauta du tronc et vint à la rencontre du baladin.
 
-– Mais je te connaís, tu étais avec les Djazilehs qui ont passé l’hiver ici ! Alors vous revenez déjà ? Hé ! hé ! quand on a vu le pays d’Axilane, on ne peut l’oublier, hein ? Où sont tes compagnons ?
+– Mais je te connais, tu étais avec les Djazilehs qui ont passé l’hiver ici ! Alors vous revenez déjà ? Hé ! hé ! quand on a vu le pays d’Axilane, on ne peut l’oublier, hein ? Où sont tes compagnons ?
 
 Sidonel frémit de joie. Ainsi le sarak allait les laisser partir !
 

@@ -19,7 +19,7 @@ def normalize(src_path, dst_path):
     log_name = f"{basename}.log"
     log_path = os.path.join(dst_dir, log_name)
     logging.basicConfig(level=logging.INFO,
-                        format="[{levelname:<7}] {name}: {message}",
+                        format="{levelname:<7} {name}: {message}",
                         filename=log_path,
                         style='{')
 

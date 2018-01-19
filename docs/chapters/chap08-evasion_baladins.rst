@@ -1,11 +1,11 @@
-Chapitre VIII – L’EVASION DES BALADINS
+Chapitre VIII – L’ÉVASION DES BALADINS
 ======================================
 
 Barbe-d’Or marchait de long en large. Le jour se levait et le Djazileh ne revenait pas. Toute la nuit, il l’avait attendu en arpentant le pré, devant la pauvre cabane dont il avait expulsé les habitants le soir précèdent. A quelque distance de là, derrière un bois se trouvait le camp de son armée. Le temps s’écoulait, les batailles se succédaient, les troupes rivales s’affrontaient presque quotidiennement et l`issue de la guerre demeurait incertaine, aucun des saraks ne semblait prendre l’avantage.
 
 Chaque fois qu'il passait devant la porte, Tikobal apercevait Akir somnolant devant l`âtre qui rougeoyait encore. Akir s’était caché le visage en voyant Sidonel s’élancer sur le fil brillant du temps.
 
-Le baladin ne revint qu'au bout du jour, épuisé, les traits creusés, incapable de parler. Tikobal cependant surmonta son impatience et le laissa dormir. Luimême ressentait une grande fatigue, comme si l`attente crispée de ces si longues heures avait martyrisé ses os, ses muscles et sa chair. Quand Sidonel s’éveilla, il trouva le sarak endormi près de lui. Depuis la porte, Akir les épiait. Sidonel se redressa sur un coude et le sarak s`èveilla en sursaut.
+Le baladin ne revint qu'au bout du jour, épuisé, les traits creusés, incapable de parler. Tikobal cependant surmonta son impatience et le laissa dormir. Lui-Même ressentait une grande fatigue, comme si l`attente crispée de ces si longues heures avait martyrisé ses os, ses muscles et sa chair. Quand Sidonel s’éveilla, il trouva le sarak endormi près de lui. Depuis la porte, Akir les épiait. Sidonel se redressa sur un coude et le sarak s`éveilla en sursaut.
 
 – Raconte ! ordonna-t-il.
 
@@ -17,13 +17,13 @@ Ils retournèrent au campement et Tikobal garda la son armée immobilisée. Il s
 
 Deux jours plus tard, quand des plus hautes nacelles les guetteurs distinguèrent la ligne sombre et continue de la forêt, Tikobal arrêta son avance et donna ses ordres. La nuit suivante, Akir musela les hurlants, puis ils montèrent à bord de l’aérostat et s’envolèrent dans une course rapide et silencieuse. Ils mirent à nouveau pied à terre devant la forêt. Akir chercha une trouée assez vaste pour dissimuler le ballon qu'il fit descendre au plus bas, en réduisant la taille des traits. Ils laissèrent les bêtes là, et s’enfoncèrent sous les arbres. Ils attendirent encore un jour et une nuit sans bouger du fourré où ils se tenaient cachés. La dernière nuit, Tikobal dit, songeur :
 
-– Ecoute Sidonel, en prêtant l’oreille, nous pourrons peut-être entendre ta course dans la plaine…
+– Écoute Sidonel, en prêtant l’oreille, nous pourrons peut-être entendre ta course dans la plaine…
 
 Le matin, ils grimpèrent sur une branche élevée et virent au loin les ballons qui avançaient vers eux dans un bel ordre. Parvenus face à la forêt qui leur barrait la route, les aérostats bifurquèrent et prirent la direction du défilé qui s’ouvrait largement, entre les collines rocheuses, pour se resserrer par la suite.
 
 – Ils vont se faire massacrer ! dit Sidonel, effaré. Tikobal se mit à rire et répondit :
 
-– Me prends-tu pour un imbécile ? Tous les ballons que tu vois sont vides. il y a seulement des pilotes en tête et en queue. Mes hommes ont contourné ThaZor tandis que nous attendions et c”est lui qui va se faire anéantir dans le défilé. Il ne pourra pas nous échapper…
+– Me prends-tu pour un imbécile ? Tous les ballons que tu vois sont vides. il y a seulement des pilotes en tête et en queue. Mes hommes ont contourné Thazor tandis que nous attendions et c”est lui qui va se faire anéantir dans le défilé. Il ne pourra pas nous échapper…
 
 Et d’une voix troublée, le sarak ajouta :
 
@@ -35,7 +35,7 @@ Et d’une voix troublée, le sarak ajouta :
 
 – Si nous le pouvions, sarak Barbe-d’Or, nous ne serions ici ni l’un ni l’autre. Je nous aurais fait éviter la terre d’Axilane et ton pays vivrait peut-être en paix. répondit amèrement Sidonel.
 
-Tikobal Barbe-d’Or écrasa les troupes de Thazor Tête-d’Argent qui trouva lui-même la mort dans le défilé. L’Axilane appartenait tout entière à Tikobal désormais. Cependant, depuis la plus haute tour du château conquis, Barbe-d’Or pouvait voir au-delà de la rivière des terres étrangères et riantes. Il pensait : « Je les veux et celles qui suivent aussi. Tant qu'il y aura devant moi une terre, une eau à conquérir, je les prendrai. Je m’arrêterai là où le monde finit.,s’il finit quelque part. » ll laissa ses troupes sur place en garnison et sortit un matin Sidonel de la pièce où il le tenait enfermé.
+Tikobal Barbe-d’Or écrasa les troupes de Thazor Tête-d’Argent qui trouva lui-même la mort dans le défilé. L’Axilane appartenait tout entière à Tikobal désormais. Cependant, depuis la plus haute tour du château conquis, Barbe-d’Or pouvait voir au-delà de la rivière des terres étrangères et riantes. Il pensait : « Je les veux et celles qui suivent aussi. Tant qu'il y aura devant moi une terre, une eau à conquérir, je les prendrai. Je m’arrêterai là où le monde finit.,s’il finit quelque part. » il laissa ses troupes sur place en garnison et sortit un matin Sidonel de la pièce où il le tenait enfermé.
 
 – Prends tes affaires, baladin, nous allons voir Bambrille.
 
@@ -71,7 +71,7 @@ Quand Gorok les inspecta pour le soir, Camperolle lui dit :
 
 – Mais les gardes sont à souper. Il n’y a qu'un homme dans le couloir, dit encore naïvement Gorok. Je dois d’abord appeler les autres.
 
-– Il vaut mieux qu'ils ne sachent pas que tu te divertís avec nous… Tiens, regarde Ilouri qui commence à jongler.
+– Il vaut mieux qu'ils ne sachent pas que tu te divertis avec nous… Tiens, regarde Ilouri qui commence à jongler.
 
 En effet, la jeune femme, tout sourire, jonglait avec des balles de couleur et chacune des balles en s’élevant émettait une note longue, vibrante comme si la corde d’un instrument invisible était pincée. Les sons partaient en arabesques colorées : émerveillé, Gorok s’assit sur un tabouret, ne bougea plus.
 
@@ -115,7 +115,7 @@ La jeune femme s’élança dans les galeries et les escaliers ; elle monta jus
 
 Enfin le panneau massif s’ouvrit.
 
-– Les gardes sont en bas, mais ils ne vont pas tarder a venir, dit llouri en l’entraînant dans l”escalier.
+– Les gardes sont en bas, mais ils ne vont pas tarder a venir, dit Ilouri en l’entraînant dans l”escalier.
 
 – A l’étage de la salle du trône. un passage mène au jardin… De là, on peut gagner le plateau ! Le sarak m’a emmenée en promenade une fois…
 

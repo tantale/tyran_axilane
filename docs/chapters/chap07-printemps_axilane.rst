@@ -31,7 +31,7 @@ Quand il se retrouva seul en face de Bambrille, le sarak lui dit :
 
 – J’ai le temps de te faire changer d’avis. je ne vieillis pas vite, moi…
 
-Après ce genre d’éclat. il restait de longs jours sans la voir, furieux de la faiblesse qu'il montrait avec elle. Depuis que Sidonel avait ramené du futur l’annonce de sa guerre avec Thazor Tête-d`Argent, il lui laissait quelques semaines de répit. Le danger que chaque voyage faisait courir au baladin le forçait à la prudence, il préférait réfléchir et attendre le printemps plutôt que d’user prématurément son précieux observateur. Aux premiers signes du dégel, le château entier s’éveilla. Il retentit du bruit des armes, des cris des soldats. Ils venaient de partout, ils affluaient au pied de la forteresse, sur la place de la cité et dans les champs, au milieu desquels ils montèrent leurs tentes. Un matin ensoleillé, tandis qu”une brume blanche noyait encore le sol à perte de vue, Tarano à la fenétre étroite vit arriver des ballons par dizaines.
+Après ce genre d’éclat. il restait de longs jours sans la voir, furieux de la faiblesse qu'il montrait avec elle. Depuis que Sidonel avait ramené du futur l’annonce de sa guerre avec Thazor Tête-d`Argent, il lui laissait quelques semaines de répit. Le danger que chaque voyage faisait courir au baladin le forçait à la prudence, il préférait réfléchir et attendre le printemps plutôt que d’user prématurément son précieux observateur. Aux premiers signes du dégel, le château entier s’éveilla. Il retentit du bruit des armes, des cris des soldats. Ils venaient de partout, ils affluaient au pied de la forteresse, sur la place de la cité et dans les champs, au milieu desquels ils montèrent leurs tentes. Un matin ensoleillé, tandis qu”une brume blanche noyait encore le sol à perte de vue, Tarano à la fenêtre étroite vit arriver des ballons par dizaines.
 
 – Voici que la guerre va pouvoir commencer.
 
@@ -55,7 +55,7 @@ Wanolo se releva. Ses yeux luisaient comme des lames. Il se leva, marcha vers la
 
 – Il m’a enlevé Bambrille, il a tué mon bombok, maintenant c’est moi qui vais le tuer.
 
-– Non Wanolo, tu n’arriverais pas jusqu'à lui, tu serais mort avant… Ecoute ces hommes derrière le mur qui parlent. Tu n’as aucune chance. A moi aussi, il a enlevé Bambrille. S’il était possible de le tuer je l’aurais déjà fait. Ecoutez, j’entends sa voix…
+– Non Wanolo, tu n’arriverais pas jusqu'à lui, tu serais mort avant… Écoute ces hommes derrière le mur qui parlent. Tu n’as aucune chance. A moi aussi, il a enlevé Bambrille. S’il était possible de le tuer je l’aurais déjà fait. Écoutez, j’entends sa voix…
 
 Ils s’écartèrent, la porte s’ouvrit, mais le sarak ne la franchit pas. Entouré d’une foule d’hommes d’armes. il les considéra moqueur, comme s’il pouvait lire leurs pensées. Il dit :
 
@@ -77,15 +77,15 @@ Alors Sidonel tomba à genoux en suppliant :
 
 – Laisse-lui la vie, sarak, je ferai ce que tu voudras.
 
-– C’est bien, mais renonce à me défier. lls sont nombreux : ton frère, ton père, tes neveux… Je peux en tuer un à chaque fois que tu voudras me désobéir ! Sidonel nota que Barbe-d’Or n’incluait pas Bambrille dans le lot de ses victimes. Le sarak serait-il vraiment épris ? se demanda-t-il.,sans savoir s’il en était plus soulagé qu,'ccablé.
+– C’est bien, mais renonce à me défier. ils sont nombreux : ton frère, ton père, tes neveux… Je peux en tuer un à chaque fois que tu voudras me désobéir ! Sidonel nota que Barbe-d’Or n’incluait pas Bambrille dans le lot de ses victimes. Le sarak serait-il vraiment épris ? se demanda-t-il.,sans savoir s’il en était plus soulagé qu'accablé.
 
 La meute de hurlants que l’on venait d’atteler à l’aérostat seigneurial était contenue à grand-peine par un gaillard au crâne rasé qui maintenait la bête de tête en lui collant le mufle au sol. Ces hurlants sans poils ni fourrure, avaient un cuir violet, brillant, de hautes croupes aux muscles saillants comme des cordes noueuses, des faces aplaties à gros plis. Impatients de prendre leur course, ils se mordaient les uns les autres en grognant.
 
 Sidonel grimpa dans la nacelle derrière Tikobal.
 
-puis Gorok vint retenir l’impétueux attelage pendant que le guide à tête rase montait à son tour. Au signal de leur maître, les hurlants s’élancèrent et l’armée entière s’ébranla derrière le sarak. immédiatement après celui-ci, venaient les ballons légers tires par des bêtes rapides, aux enveloppes arborant des bandes rouges et noires, couleurs de Barbe-d’0r. Après, suivaient de gros flottants de transport, plus lents, et enfin les soldats à pied, presque tous paysans, artisans, bûcherons, habitants des campagnes environnantes… Laissant le château à la garde de Gorok. Tikobal entendait mener contre Thazor une action courte et foudroyante qui le ramènerait bientôt chez lui.
+puis Gorok vint retenir l’impétueux attelage pendant que le guide à tête rase montait à son tour. Au signal de leur maître, les hurlants s’élancèrent et l’armée entière s’ébranla derrière le sarak. immédiatement après celui-ci, venaient les ballons légers tires par des bêtes rapides, aux enveloppes arborant des bandes rouges et noires, couleurs de Barbe-d’or. Après, suivaient de gros flottants de transport, plus lents, et enfin les soldats à pied, presque tous paysans, artisans, bûcherons, habitants des campagnes environnantes… Laissant le château à la garde de Gorok. Tikobal entendait mener contre Thazor une action courte et foudroyante qui le ramènerait bientôt chez lui.
 
-lls filèrent à vive allure une partie du jour. Barbe-d’Or prenait un grand plaisir au hurlement presque continu des bêtes de trait et à la vitesse de la course. Seule l’avant-garde parvenait à les suivre. Puis ils tirent halte pour attendre le reste des troupes. en lisière des terres tenues par Thazor. Les hommes dressèrent le campement et la veille autour des feux commença. Le guide de Tikobal s’appelait Akir. Affecté à la surveillance de Sidonel, il redoutait la magie de l’homme noir. A tout moment, sa main se crispait sur le long poignard à lame courbe qui pendait à sa ceinture. Barbe-d’Or riait et Sidonel affectait de ne rien voir. Chaque fois que le sarak s’éloignait pour parler avec ses capitaines, Akir sortait l’arme de sa gaine et un tic nerveux secouait sa joue.
+ils filèrent à vive allure une partie du jour. Barbe-d’Or prenait un grand plaisir au hurlement presque continu des bêtes de trait et à la vitesse de la course. Seule l’avant-garde parvenait à les suivre. Puis ils tirent halte pour attendre le reste des troupes. en lisière des terres tenues par Thazor. Les hommes dressèrent le campement et la veille autour des feux commença. Le guide de Tikobal s’appelait Akir. Affecté à la surveillance de Sidonel, il redoutait la magie de l’homme noir. A tout moment, sa main se crispait sur le long poignard à lame courbe qui pendait à sa ceinture. Barbe-d’Or riait et Sidonel affectait de ne rien voir. Chaque fois que le sarak s’éloignait pour parler avec ses capitaines, Akir sortait l’arme de sa gaine et un tic nerveux secouait sa joue.
 
 – Pourquoi me crains-tu ? lui demanda Sidonel.
 
@@ -113,7 +113,7 @@ L’homme avait repris son attitude farouche et il ne voulut plus parler jusqu'a
 
 L’homme rengaina son poignard, et se hâta d’obéir.
 
-– Ecoute-moi, Sidonel, reprit Tikobal. Je vais battre Thazor Tête-d’Argent et posséder l’Axilane entière. Je pourrais me montrer reconnaissant… vous libérer, toi et les tiens.
+– Écoute-moi, Sidonel, reprit Tikobal. Je vais battre Thazor Tête-d’Argent et posséder l’Axilane entière. Je pourrais me montrer reconnaissant… vous libérer, toi et les tiens.
 
 – Oui, sarak, tu le pourrais… mais tu ne le feras pas.
 
@@ -183,7 +183,7 @@ Akir, avec une adresse surprenante, retint à temps voulu son attelage pour arri
 
 Tandis qu'ils retournaient vers le gros de l’armée. Tikobal assombri se taisait. Il avait tranché les liens de Sidonel sans un mot, et maintenant, ils filaient dans la nuit, se fiant à la vue et à l’instinct des hurlants pour trouver leur chemin. A l’aube, dans une lueur grise incertaine, ils rejoignirent l’armée.
 
-Tikobal Barbe-d’0r, échevelé et blême dans le petit jour, semblait plus redoutable que jamais. Il fit mettre Sidonel sous une tente bien protégée près de la sienne. puis s’endormit ensuite tout cuirassé comme il était. Sidonel le trouva à son chevet au réveil. Le sarak le scrutait de ses yeux pâles et durs.
+Tikobal Barbe-d’or, échevelé et blême dans le petit jour, semblait plus redoutable que jamais. Il fit mettre Sidonel sous une tente bien protégée près de la sienne. puis s’endormit ensuite tout cuirassé comme il était. Sidonel le trouva à son chevet au réveil. Le sarak le scrutait de ses yeux pâles et durs.
 
 – Tête ronde, tu m’as trompé ! Tu ne m’avais pas prévenu de ce qui s’est passé cette nuit.
 

@@ -9,9 +9,9 @@ Au long de ses pas, le bois craqua, grinça. Tikobal aimait que ce château séc
 
 – La femme est un poison mortel, se dit~il. Elle rend l’homme aussi mou que la blair des étangs.
 
-Il prit une torche, sortit du côté des jardins en terrasses. L’air glacé de la nuit lui coupa le souffle. Le ciel était pur, parsemé de points scintillants comme de minuscules signes incompréhensibles. Tikobal chercha l’alignement des quatre petits disques brillants qui, lorsqu'on arrivait à les distinguer du reste des étoiles, signifiaient chance. Il les trouva, quatre astres un peu plus gros que les autres et s’en désintéressa aussitôt. Il gagna la roseraíe, l’éclaíra de sa torche. Il vit le bois nu, sans feuilles, sans autre ornement que ses longues épines, un bois frappé de mort hivernale et la vérité lui apparut. Il sut ce qu'il devait faire. Il ressentit une étrange tristesse mais sa décision était prise. Il rentra en courant, arracha Gorok à son sommeil.
+Il prit une torche, sortit du côté des jardins en terrasses. L’air glacé de la nuit lui coupa le souffle. Le ciel était pur, parsemé de points scintillants comme de minuscules signes incompréhensibles. Tikobal chercha l’alignement des quatre petits disques brillants qui, lorsqu'on arrivait à les distinguer du reste des étoiles, signifiaient chance. Il les trouva, quatre astres un peu plus gros que les autres et s’en désintéressa aussitôt. Il gagna la roseraie, l’éclaira de sa torche. Il vit le bois nu, sans feuilles, sans autre ornement que ses longues épines, un bois frappé de mort hivernale et la vérité lui apparut. Il sut ce qu'il devait faire. Il ressentit une étrange tristesse mais sa décision était prise. Il rentra en courant, arracha Gorok à son sommeil.
 
-lui donna d’une voix sourde ses ordres à suivre sur-lechamp. Il regagna sa chambre, tandis que les pas précipités des hommes tirés du lit faisaient vibrer la bâtisse du haut en bas. Sur la table près de sa couche. la rose rouge du printemps, lasse du voyage, oubliait ses pétales un à un. Barbe-d’Or regarda songeur ce déclin accéléré. Lorsqu'il entendit le heurt sonore des haches au travail, il s’endormit paisiblement.
+lui donna d’une voix sourde ses ordres à suivre sur-le-champ. Il regagna sa chambre, tandis que les pas précipités des hommes tirés du lit faisaient vibrer la bâtisse du haut en bas. Sur la table près de sa couche. la rose rouge du printemps, lasse du voyage, oubliait ses pétales un à un. Barbe-d’Or regarda songeur ce déclin accéléré. Lorsqu'il entendit le heurt sonore des haches au travail, il s’endormit paisiblement.
 
 Sitôt le jour venu, Barbe-d’Or entra chez les baladins. Il s’enquit très aimablement d’eux : avaient-ils bien soupé, avaient-ils bien dormi ?
 
@@ -27,7 +27,7 @@ Sitôt le jour venu, Barbe-d’Or entra chez les baladins. Il s’enquit très a
 
 Les yeux de Tikobal retrouvèrent leur pâle éclat de glace, ses grandes mains blanches se crispèrent l’une sur l’autre.
 
-– Ecoute-moi, baladin… Fais ce .que je te demande et tu repartiras avec les tiens, tous vos biens, plus cinq sacs de grain et un balodon bien gras qui couine encore dans sa cage… C”est peu de chose que je te demande.
+– Écoute-moi, baladin… Fais ce .que je te demande et tu repartiras avec les tiens, tous vos biens, plus cinq sacs de grain et un balodon bien gras qui couine encore dans sa cage… C”est peu de chose que je te demande.
 
 – De quoi s’agit-il ? demanda Sidonel. méfiant.
 
@@ -39,7 +39,7 @@ Les yeux de Tikobal retrouvèrent leur pâle éclat de glace, ses grandes mains 
 
 La voix de Tikobal et le sens de sa phrase ne laissaient pas le choix.
 
-– Donne-moi ta parole que nous pourrons partir dès mon retour et j’irai, promít Sidonel en baissant la tête.
+– Donne-moi ta parole que nous pourrons partir dès mon retour et j’irai, promit Sidonel en baissant la tête.
 
 – Tu l’as, prépare ton chaudron, le feu brûle déjà dans la grande salle.
 
@@ -87,7 +87,7 @@ Barbe-d’Or partit d’un rire énorme et triomphant.
 
 – Inutile, je l’avais compris, répondit Sidonel.
 
-– Ecoute Djazileh, je vais faire ta fortune. Grâce à ton pouvoir le monde entier m’appartient… Qu'as-tu vu d’autre au printemps ? Allons, raconte !
+– Écoute Djazileh, je vais faire ta fortune. Grâce à ton pouvoir le monde entier m’appartient… Qu'as-tu vu d’autre au printemps ? Allons, raconte !
 
 – Rien de particulier.
 
@@ -107,13 +107,13 @@ Barbe-d’Or partit d’un rire énorme et triomphant.
 
 – Il a vieilli, dit lentement Tarano. Ceux qui vont dans l’avenir le paient de quelques années de leur vie… Parfois plus, parfois moins, nous ne savons pas pourquoi. Nous ne pouvons rien y faire. C’est la loi du temps. C’est aussi la raison pour laquelle nous n’usons de ce pouvoir que très rarement et seulement au bénéfice de notre peuple.
 
-– Etrange pouvoir ! murmura Barbe-d’Or rêveur. comme il est heureux que j« n profite par ton fils interposé !
+– Étrange pouvoir ! murmura Barbe-d’Or rêveur. comme il est heureux que j« n profite par ton fils interposé !
 
 Le sarak frissonna en scrutant le visage de Sidonel. Oui, c`était bien cela, un léger pli s’amorçait autour des lèvres, au contour des yeux. La lassitude esquissait maintenant quelques traits de part et d’autre du nez, un sillon à peine visible creusait son chemin le long des joues.
 
 – Que se produirait-il. demanda Barbe-d’Or avec lenteur, si l’homme tombait du fil du temps ?
 
-– ll serait rayé de notre mémoire. comme s’il n’avait jamais existé, répondit Wanolo, parce que Tarano pleurait en silence.
+– il serait rayé de notre mémoire. comme s’il n’avait jamais existé, répondit Wanolo, parce que Tarano pleurait en silence.
 
 « Il me reste cette issue », pensa Sidonel, et l`horreur d’une telle solution le glaça. Mourir pour les siens, soit, mais s’anéantir jusque dans la mémoire des êtres aimés, quel homme pourrait y consentir ?
 
@@ -121,7 +121,7 @@ Le sarak frissonna en scrutant le visage de Sidonel. Oui, c`était bien cela, un
 
 D’un geste plein de rage, Tarano détruisit le fil merveilleux dont le tintement cristallin résonna un instant dans la salle.
 
-– Allez dans votre appartement, je l`ai fait préparer. Vous y serez bien, dit enfin Tíkobal et il quitta la pièce, abandonnant les baladins à leurs tristes pensées.
+– Allez dans votre appartement, je l`ai fait préparer. Vous y serez bien, dit enfin Tikobal et il quitta la pièce, abandonnant les baladins à leurs tristes pensées.
 
 – Sauvons-nous ! supplia Bambrille.
 
@@ -153,13 +153,13 @@ Le colosse secoua lourdement la tête.
 
 – Lui seul peut vous libérer.
 
-– Ecoute, le sarak est un homme après tout l Parle-lui, essaie de l’attendrir, rappelle-lui son enfance, ceux qu'il a aimés.
+– Écoute, le sarak est un homme après tout l Parle-lui, essaie de l’attendrir, rappelle-lui son enfance, ceux qu'il a aimés.
 
 Gorok secoua sa tête énorme pour répondre :
 
 – Il n’a jamais aimé personne. Je le sais, je l’ai élevé.
 
-Le lendemain de ce jour-là, Barbe-d’0r entra dans la chambre et interpella Sidonel.
+Le lendemain de ce jour-là, Barbe-d’or entra dans la chambre et interpella Sidonel.
 
 – J’ai assez patienté, à présent tu vas suivre mes volontés. Viens préparer ton sable.
 
