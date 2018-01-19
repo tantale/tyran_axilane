@@ -19,7 +19,7 @@ Là-bas, de plus en plus loin. Tikobal Barbe-d’Or découvrait d’autres ville
 
 Soudain, l’hiver fut là. Les premières neiges tombèrent, pesant sur les ballons, sur les troupes, ébahies qu'il existât encore des entraves aux volontés du sarak. On se replia dans les villes conquises, on fit provision de bois, de vivres. on s’installa dans la trêve de l’hiver.
 
-L’aérostat du sarak les ramenait par petites étapes vers la forteresse. Emmitouflé de fourrures, Barbe-d’Or ne quittait guère le fauteuil installé pour lui sous un dais rouge et noir à l’arrière de la nacelle. Sa face pâle et dure reflétait l’insatisfaction. Sidonel se tenait la plupart du temps en compagnie d`Akir, veillant devant aux gouvernes et à la conduite des hurlants. Parfois Sidonel appelait Tikobal et lui disait :
+L’aérostat du sarak les ramenait par petites étapes vers la forteresse. Emmitouflé de fourrures, Barbe-d’Or ne quittait guère le fauteuil installé pour lui sous un dais rouge et noir à l’arrière de la nacelle. Sa face pâle et dure reflétait l’insatisfaction. Sidonel se tenait la plupart du temps en compagnie d’Akir, veillant devant aux gouvernes et à la conduite des hurlants. Parfois Sidonel appelait Tikobal et lui disait :
 
 – Sarak, viens voir ! cette cascade que tu admirais tant à l’automne, elle est encore plus belle gelée !
 
@@ -65,7 +65,7 @@ Du haut de la nacelle, on jeta une échelle de corde, une silhouette voûtée en
 
 – Tikobal Barbe-d’Or, le sarak.
 
-Je ne comprends pas. Je sais que tu es… enfin que tu étais un grand magicien. Bien des événements sont arrivés naguère, dont toi seul connaissais la signification. Sans doute me parles-tu d’un personnage enfanté par tes sortilèges, mais je ne le connais pas. Un sarak. dis-tu ? Autrefois la terre d’Axilane était soumise à des tyrans qu'on appelait saraks. L’un d`eux dont le nom demeure inconnu fut la cause de grands désordres et plongea le monde dans la guerre, on le nomme le « sarak de l’ombre », mais à mon avis ce n’est qu'un monstre inventé pour effrayer les enfants désobéissants. Le seul sarak que je connaisse habitait tout près d’ici, il s’appelait Thazor Tête-d`Argent… un vieil ennemi de notre cité ; nous l’avons combattu et vaincu, maintenant il n’y a plus de sarak. Les gens de la terre d`Axilane me font confiance et je maintiens la paix. Mais laisse-moi te regarder, ami Sidonel, tu es plus jeune que dans mon souvenir !
+Je ne comprends pas. Je sais que tu es… enfin que tu étais un grand magicien. Bien des événements sont arrivés naguère, dont toi seul connaissais la signification. Sans doute me parles-tu d’un personnage enfanté par tes sortilèges, mais je ne le connais pas. Un sarak. dis-tu ? Autrefois la terre d’Axilane était soumise à des tyrans qu'on appelait saraks. L’un d’eux dont le nom demeure inconnu fut la cause de grands désordres et plongea le monde dans la guerre, on le nomme le « sarak de l’ombre », mais à mon avis ce n’est qu'un monstre inventé pour effrayer les enfants désobéissants. Le seul sarak que je connaisse habitait tout près d’ici, il s’appelait Thazor Tête-d’Argent… un vieil ennemi de notre cité ; nous l’avons combattu et vaincu, maintenant il n’y a plus de sarak. Les gens de la terre d’Axilane me font confiance et je maintiens la paix. Mais laisse-moi te regarder, ami Sidonel, tu es plus jeune que dans mon souvenir !
 
 Gorok resta silencieux quelques instants, il passa une main dans les cheveux blanchissants du baladin. suivit de l’index le trace sinueux d’une ride.
 
@@ -73,7 +73,7 @@ Gorok resta silencieux quelques instants, il passa une main dans les cheveux bla
 
 « Ne dis plus rien Gorok, le coupa Sidonel. C’est vrai je viens du passé, mais je ne veux pas connaître mon propre destin. En vérité, tu m’as déjà appris beaucoup de choses ! (Sidonel eut un rire forcé, puis il ajouta : .J’aimerais bien savoir ce que représente cette figure à l’avant de ta nacelle.
 
-« Mais c`est ta tête ! Tu ne te reconnais pas ?
+« Mais c’est ta tête ! Tu ne te reconnais pas ?
 
 Regarde, c’est rond, c’est noir, avec des yeux dorés, et puis il y a cette rose rouge que tu as été chercher pour moi au printemps. Mon aérostat s’appelle le Baladin du temps… j’espère que cela ne te fâche pas ?
 
@@ -103,9 +103,9 @@ Sidonel hésita à peine une fraction de seconde et déclara :
 
 – La terre d’Axilane était comme assoupie, mais rassure-toi, tu vivais toujours. Des gens m’ont raconté que tu guerroyais loin, poursuivant ton rêve de conquête. Si loin que personne n’était plus capable de dire les limites de ton pouvoir et il fallait des mois aux messagers pour ramener les nouvelles de tes victoires. Je crois que tu étais le sarak du monde.
 
-– Bien, bien ! se réjouit Barbe-d`Or. Et ensuite ?
+– Bien, bien ! se réjouit Barbe-d’Or. Et ensuite ?
 
-Sidonel lui mentit une bonne partie de la nuit pour le distraire. Tout en inventant de glorieuses aventures au sarak, il pensait à ce qu'il venait de découvrir, essayant de comprendre. Beaucoup plus tard, quand Barbe-d’Or s`endormit dans son fauteuil, un sourire féroce aux lèvres, Sidonel arriva à la conclusion qu'un seul événement pouvait tout expliquer : quelque part dans un proche avenir, Tikobal allait sombrer dans le temps. Cela paraissait presque incroyable. Sidonel imaginait mal le sarak se lançant imprudemment sur le fil de verre. Et pourtant…
+Sidonel lui mentit une bonne partie de la nuit pour le distraire. Tout en inventant de glorieuses aventures au sarak, il pensait à ce qu'il venait de découvrir, essayant de comprendre. Beaucoup plus tard, quand Barbe-d’Or s’endormit dans son fauteuil, un sourire féroce aux lèvres, Sidonel arriva à la conclusion qu'un seul événement pouvait tout expliquer : quelque part dans un proche avenir, Tikobal allait sombrer dans le temps. Cela paraissait presque incroyable. Sidonel imaginait mal le sarak se lançant imprudemment sur le fil de verre. Et pourtant…
 
 Dans les jours suivants, ils réintégrèrent la vieille forteresse. Une fois de plus, Sidonel supplia Barbe-d’Or de libérer les Djazilehs. Le sarak refusa, d’autant qu'ayant visité Bambrille dans sa geôle sitôt arrivé, la jeune femme l’avait accueilli par des injures.
 
@@ -125,7 +125,7 @@ Que se produirait-il alors ? Barbe-d’Or n’avait-il pas réussi à modifier 
 
 – Pense aux richesses dont je te couvrirai, aux terres, aux biens immenses dont nous jouirons ensemble et à la confiance que je mettrai en toi ! Car je ne t’offre pas moins que de partager mon pouvoir.
 
-– Sarak, laisse-moi réfléchir. Ce que tu demandes, ce que tu proposes exigera de moi une fidélité totale. je dois la promettre d’une voix ferme et aujourd`hui je 126 ` ne m’en sens pas capable, même dans ma triste situation.
+– Sarak, laisse-moi réfléchir. Ce que tu demandes, ce que tu proposes exigera de moi une fidélité totale. je dois la promettre d’une voix ferme et aujourd’hui je 126 ’ ne m’en sens pas capable, même dans ma triste situation.
 
 – Tu me tiens ce langage depuis des semaines ! Il faut te décider.
 
@@ -139,7 +139,7 @@ Ainsi la volonté de Bambrille fléchissait, elle allait peut-être le trahir. B
 
 Il était logique que la jeune femme songeât aussi à eux. En devenant l’épouse du sarak, elle obtiendrait sans doute ce que lui, Sidonel, n’avait pu arracher, leur liberté. Mais quelle logique douloureuse ! Un moment Sidonel eut envie de se laisser tomber dans le tunnel du temps, cela le ramena à ses premières occupations. Le fil du temps ! Ce fut comme une illumination dans son esprit, Sidonel comprit. Il allait tendre un piège terrible au sarak. Pour cela, il devait d’abord veiller à ce que la scène qu'il venait de surprendre puisse se produire et se répéter jour après jour, à la même heure, afin que Tikobal se trouve bien sur le trône à l’instant voulu…
 
-Il dormit deux journées et deux nuits entières à son retour, avant de pouvoir s’entretenir avec Barbe-d`Or. Quand il s’éveilla enfin, on prévint le sarak qui accourut aussitôt.
+Il dormit deux journées et deux nuits entières à son retour, avant de pouvoir s’entretenir avec Barbe-d’Or. Quand il s’éveilla enfin, on prévint le sarak qui accourut aussitôt.
 
 – Ce que j’ai à te dire, sarak, est cruel pour moi. mais je n’y peux rien. Voici : je suis arrivé aussi loin dans le futur qu'à mon précédent voyage. Tout, au château, m’a paru dans un ordre parfait… tandis que tu partiras à la guerre en des terres étrangères, ici quelqu'un veillera fidèlement sur tes intérêts. Une femme… J’ai cru que tu parlais par sa bouche, que tu écoutais par ses oreilles…
 

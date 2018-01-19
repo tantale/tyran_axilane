@@ -55,17 +55,17 @@ Il rejoignit ensuite Barbe-d’Or et lui dit :
 
 – Maintenant il faut patienter, sarak. Le sable que j’ai mis dans le chaudron doit fondre et ce sera peut-être long. As-tu choisi les fleurs que je ramènerai ?
 
-– Tu n’auras pas à chercher loin. mes jardins sont là derrière, entre la forteresse et la falaise. Du printemps jusqu'aux dernières douceurs de l’automne, il y pousse les plantes les plus parfumées de la terre d`Axilane, des arbres fruitiers qui vous mettent l’eau à la bouche à chaque pas et des fleurs innombrables. Quand mes yeux voient toutes ces couleurs, tu ne le croirais pas, mais je deviens idiot. J`ai envie de me coucher là et de n’en plus bouger jusqu'à la fin des temps.
+– Tu n’auras pas à chercher loin. mes jardins sont là derrière, entre la forteresse et la falaise. Du printemps jusqu'aux dernières douceurs de l’automne, il y pousse les plantes les plus parfumées de la terre d’Axilane, des arbres fruitiers qui vous mettent l’eau à la bouche à chaque pas et des fleurs innombrables. Quand mes yeux voient toutes ces couleurs, tu ne le croirais pas, mais je deviens idiot. J’ai envie de me coucher là et de n’en plus bouger jusqu'à la fin des temps.
 
 Barbe-d’Or, qui avait dit ces choses avec un air étrangement rêveur, se mit à rire. Il poursuivit sur le ton brutal qui lui était plus familier :
 
 – C’est un endroit où je ne vais guère quand j’ai une décision importante à prendre : il me ramollit.
 
-Mais ce que je préfère dans mes jardins, c’est encore la roseraie, l’unique roseraie d`Axilane ! Thazor Tête-d’Argent ne peut pas se vanter d’en posséder une, puisque j’ai saccagé la sienne au cours d’une bataille où je faillis m’emparer de son château. Djazileh. tu me ramèneras une rose rouge du printemps.
+Mais ce que je préfère dans mes jardins, c’est encore la roseraie, l’unique roseraie d’Axilane ! Thazor Tête-d’Argent ne peut pas se vanter d’en posséder une, puisque j’ai saccagé la sienne au cours d’une bataille où je faillis m’emparer de son château. Djazileh. tu me ramèneras une rose rouge du printemps.
 
 Les heures s’écoulèrent lentement. Parfois Sidonel allait soulever le couvercle du chaudron, faisait une grimace et demandait au garde d’activer le feu. Tikobal se montrait patient, bien qu'il eût du mal à tenir en place. Tarano et sa troupe s’étaient assis dans un coin de la salle. Le vieil homme semblait résigné à voir son fils se lancer dans une aventure qu'il avait voulu empêcher. Un moment, le sarak demanda à Bambrille de danser encore, mais elle le avec si peu de cœur cette fois qu'il l’interrompit avant la fin.
 
-Tikobal arpentait la salle en tous sens. l`air profondément absorbé. Il sortit dans le couloir, gagna la galerie découverte qui ceignait la forteresse. Il s’engagea sur l’une des passerelles qui reliaient le château aux postes de guet installés sur de vertigineux rochers en colonne. La nuit était froide, très haut dans le ciel des nuages passaient à la débandade, se déchiraient silencieusement en découvrant les étoiles.
+Tikobal arpentait la salle en tous sens. l’air profondément absorbé. Il sortit dans le couloir, gagna la galerie découverte qui ceignait la forteresse. Il s’engagea sur l’une des passerelles qui reliaient le château aux postes de guet installés sur de vertigineux rochers en colonne. La nuit était froide, très haut dans le ciel des nuages passaient à la débandade, se déchiraient silencieusement en découvrant les étoiles.
 
 – Le futur, vraiment ? laissa échapper Tikobal.
 
@@ -73,7 +73,7 @@ Un pas ébranla la galerie. Il se tourna et aperçut un garde qui le cherchait.
 
 – Je suis ici ! lança-t-il.
 
-– Le Djazileh est prêt, sarak, annonça l’homme. Quand Barbe-d’Or fut de retour dans la salle, il trouva Sidonel debout près de la cheminée, son arc bandé dans une main, tenant dans l`autre une fine flèche de cuivre empennée d’ailettes du même métal.
+– Le Djazileh est prêt, sarak, annonça l’homme. Quand Barbe-d’Or fut de retour dans la salle, il trouva Sidonel debout près de la cheminée, son arc bandé dans une main, tenant dans l’autre une fine flèche de cuivre empennée d’ailettes du même métal.
 
 – Je partirai quand tu voudras, sarak, dit Sidonel.
 
@@ -87,7 +87,7 @@ Sidonel se pencha vers le chaudron. toujours posé sur un feu d’enfer. Barbe-d
 
 – Je ne sais pas si tu ramèneras une rose du printemps, mais je crois que tu es un grand magicien ! dit Tikobal en regardant Sidonel avec admiration. Sidonel posa son arc et approcha une main prudente du fil transparent. Il l’effleura et le trouvant froid, il en éprouva la résistance. Apparemment satisfait, il l’empoigna résolument, et, d’une brusque détente, bondit en hauteur.
 
-A présent, Sidonel se dressait miraculeusement sur le fil, où il oscillait de droite et de gauche à la recherche de son équilibre. Il se mit à avancer enfin à petits pas précautionneux. La ligne vitreuse crissait sous ses pieds. Le sarak le suivit en marchant à ses côtés, mais s’arrêta avant que le baladin ne parvienne à l’extrémité du fil. Fasciné, Barbe-d`Or vit Sidonel atteindre le point où la flèche avait disparu. A nouveau un éclair bleu qui nimba tout le corps du baladin et cet éclat cristallin… Sidonel n’était plus là.
+A présent, Sidonel se dressait miraculeusement sur le fil, où il oscillait de droite et de gauche à la recherche de son équilibre. Il se mit à avancer enfin à petits pas précautionneux. La ligne vitreuse crissait sous ses pieds. Le sarak le suivit en marchant à ses côtés, mais s’arrêta avant que le baladin ne parvienne à l’extrémité du fil. Fasciné, Barbe-d’Or vit Sidonel atteindre le point où la flèche avait disparu. A nouveau un éclair bleu qui nimba tout le corps du baladin et cet éclat cristallin… Sidonel n’était plus là.
 
 La stupéfaction de Tikobal ne dura guère. Après quelques instants, il appela le borgne Gorok à grands cris et lui commanda d’envoyer des gardes partout.
 

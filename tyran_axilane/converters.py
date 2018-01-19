@@ -136,6 +136,8 @@ def convert_typo(content):
     content = re.sub(r"\s*([?;:!%»])", "\u00a0" + r"\1", content, flags=re.DOTALL)
     content = re.sub(r"([«])\s*", r"\1" + "\u00a0", content, flags=re.DOTALL)
     content = re.sub(r"(\w)\.\.\.", r"\1…", content, flags=re.DOTALL)
+    content = re.sub(r"\n(– \w)", lambda mo: mo.group().upper(), content, flags=FLAGS)
+    content = content.replace("`", "’")
     return content
 
 

@@ -31,7 +31,7 @@ Quand il se retrouva seul en face de Bambrille, le sarak lui dit :
 
 – J’ai le temps de te faire changer d’avis. je ne vieillis pas vite, moi…
 
-Après ce genre d’éclat. il restait de longs jours sans la voir, furieux de la faiblesse qu'il montrait avec elle. Depuis que Sidonel avait ramené du futur l’annonce de sa guerre avec Thazor Tête-d`Argent, il lui laissait quelques semaines de répit. Le danger que chaque voyage faisait courir au baladin le forçait à la prudence, il préférait réfléchir et attendre le printemps plutôt que d’user prématurément son précieux observateur. Aux premiers signes du dégel, le château entier s’éveilla. Il retentit du bruit des armes, des cris des soldats. Ils venaient de partout, ils affluaient au pied de la forteresse, sur la place de la cité et dans les champs, au milieu desquels ils montèrent leurs tentes. Un matin ensoleillé, tandis qu”une brume blanche noyait encore le sol à perte de vue, Tarano à la fenêtre étroite vit arriver des ballons par dizaines.
+Après ce genre d’éclat. il restait de longs jours sans la voir, furieux de la faiblesse qu'il montrait avec elle. Depuis que Sidonel avait ramené du futur l’annonce de sa guerre avec Thazor Tête-d’Argent, il lui laissait quelques semaines de répit. Le danger que chaque voyage faisait courir au baladin le forçait à la prudence, il préférait réfléchir et attendre le printemps plutôt que d’user prématurément son précieux observateur. Aux premiers signes du dégel, le château entier s’éveilla. Il retentit du bruit des armes, des cris des soldats. Ils venaient de partout, ils affluaient au pied de la forteresse, sur la place de la cité et dans les champs, au milieu desquels ils montèrent leurs tentes. Un matin ensoleillé, tandis qu”une brume blanche noyait encore le sol à perte de vue, Tarano à la fenêtre étroite vit arriver des ballons par dizaines.
 
 – Voici que la guerre va pouvoir commencer.
 
@@ -109,7 +109,7 @@ L’homme avait repris son attitude farouche et il ne voulut plus parler jusqu'a
 
 – En somme, ce serait le moment idéal pour Tête-d’Argent ! Tu ne crains pas une mauvaise surprise ?
 
-– Lui, sortir de son château et attaquer la nuit ? Jamais ! Il a peur de son ombre. Tien, baladin, mange et parlons un peu. Akir. éloigne-toi. tes pieds sentent mauvais et les hurlants ont faim. Va. je t`appellerai.
+– Lui, sortir de son château et attaquer la nuit ? Jamais ! Il a peur de son ombre. Tien, baladin, mange et parlons un peu. Akir. éloigne-toi. tes pieds sentent mauvais et les hurlants ont faim. Va. je t’appellerai.
 
 L’homme rengaina son poignard, et se hâta d’obéir.
 
@@ -177,7 +177,7 @@ Les feux à demi éteints ne parvenaient pas à éclairer l’ombre où les homm
 
 Deux hommes fondirent sur Sidonel, le soulevèrent. l’emportèrent en courant.
 
-– Détachez-moi, leur cria Sidonel, mais ils ne l’écoutaient pas et filaient dans le noir, le portant par ses liens comme un paquet. Enfin, ils commencèrent à se fatiguer. Ils le déposèrent sur un terrain herbeux en pente douce. Alors qu'ils s’apprêtaient à lui délier les pieds, le cri des hurlants domina le bruit confus de la bataille. Sidonel comprit que Barbe-d`Or arrivait avant même de l’apercevoir, debout dans la nacelle au côté d’Akir, brandissant sabre et torche.
+– Détachez-moi, leur cria Sidonel, mais ils ne l’écoutaient pas et filaient dans le noir, le portant par ses liens comme un paquet. Enfin, ils commencèrent à se fatiguer. Ils le déposèrent sur un terrain herbeux en pente douce. Alors qu'ils s’apprêtaient à lui délier les pieds, le cri des hurlants domina le bruit confus de la bataille. Sidonel comprit que Barbe-d’Or arrivait avant même de l’apercevoir, debout dans la nacelle au côté d’Akir, brandissant sabre et torche.
 
 Akir, avec une adresse surprenante, retint à temps voulu son attelage pour arriver au-dessus du groupe. Son long fouet alla saisir l’un des ravisseurs au cou tandis que l’autre prenait la fuite. Barbe-d’Or déjà se laissait glisser à terre et, traînant Sidonel, il le hissa sans effort derrière lui à l’abri. Sous l’impulsion d’Akir, les hurlants s’en retournèrent vers le camp dévasté. L’ennemi s’était retiré laissant des morts, des blessés, des ballons crevés. L’avant-garde de Tikobal était anéantie. Le sarak contempla le désastre avec une furieuse incrédulité, puis il donna le signal de la retraite à ceux qui pouvaient encore le suivre, abandonnant les autres sur place.
 

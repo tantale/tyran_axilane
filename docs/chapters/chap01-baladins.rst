@@ -135,7 +135,7 @@ La question amusait, visiblement. On se répétait : « Il demande où il se t
 
 – Axilane, reprit Sidonel, est-ce le nom de la ville ?
 
-– Mais non, voyons, c’est le nom de ce pays l Tu ne connais pas l’Axilane ? questionna l`homme.
+– Mais non, voyons, c’est le nom de ce pays l Tu ne connais pas l’Axilane ? questionna l’homme.
 
 – Nous n’étions jamais venus.
 
@@ -163,7 +163,7 @@ Il y eut un long silence dans l’assistance, puis les gens les uns après les a
 
 – Non, ils aimeraient voir le spectacle au contraire, mais il n’est pas certain que le sarak le permette. Parfois, quand des Djazilehs viennent, Barbe-d’Or les fait chasser. Le plus souvent, il veut être seul à prendre du plaisir. L’hiver est long chez nous. les distractions sont rares… le sarak se réserve les choses rares. L’homme s’appelait Bétéko. Il se montra aimable et serviable, les aidant à décharger les bagages de l’aérostat, opération fatigante, car il fallait les remplacer dans la nacelle par des sacs de terre pour lester l’appareil. Tout en travaillant, il leur apprit que deux saraks se disputaient la terre d’Axilane : Tikobal Barbe-d”Or et Thazor Tête-d’Argent dont le château se trouvait loin au nord. Ils étaient aussi cruels l’un que l’autre et. durant la belle saison, les affrontements entre leurs guerriers ne cessaient pas.
 
-– Mon père raconte qu'autrefois la paix existait sur la terre d’Axilane, dit Bétéko, j`aimeraís la connaître avant de mourir. Voyez notre cité, sans les guerres je suis certain qu'elle serait plus belle encore !
+– Mon père raconte qu'autrefois la paix existait sur la terre d’Axilane, dit Bétéko, j’aimeraís la connaître avant de mourir. Voyez notre cité, sans les guerres je suis certain qu'elle serait plus belle encore !
 
 Les baladins regardèrent la centaine de petites maisons de bois tassées contre la falaise. au pied de la forteresse.
 

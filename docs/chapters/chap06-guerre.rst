@@ -97,7 +97,7 @@ on dit que tu peux disparaître et que tu es aussi terrible que le sarak.
 
 – Est-ce tout ? demanda Sidonel d’un ton rieur.
 
-– On bavarde toujours trop, bien sûr, mais il n`en pêche que les gardes du château répètent partout : Barbe-d’or va gagner la guerre grâce au Djazileh !
+– On bavarde toujours trop, bien sûr, mais il n’en pêche que les gardes du château répètent partout : Barbe-d’or va gagner la guerre grâce au Djazileh !
 
 – Vois-tu mon ami, si j’étais le grand magicien que tu crois, je serais déjà loin de la terre d’Axilane, avec les miens que le sarak retient prisonniers !
 

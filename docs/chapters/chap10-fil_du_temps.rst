@@ -33,7 +33,7 @@ Les gardes l’amenèrent et se retirèrent ensuite derrière la porte. La salle
 
 Tu seras ma femme, je le sais… alors, sois raisonnable. Si tu dis oui, peut-être que les tiens pourront reprendre leur route comme avant.
 
-– Laisse-moi réfléchir, sarak. répondit Bambrille d`une voix incertaine. Je n’ai pas confiance en toi.
+– Laisse-moi réfléchir, sarak. répondit Bambrille d’une voix incertaine. Je n’ai pas confiance en toi.
 
 – N’aie crainte de peiner Sidonel… Pour lui, le temps des amours est passé, ricana Tikobal. Bambrille se cacha le visage dans les mains et Tikobal s’énerva :
 
@@ -51,7 +51,7 @@ Sidonel sourit sans plaisir et répondit :
 
 Tikobal s’en alla furieux et Sidonel écouta le chant lourd des bottes qui s’éloignait. Il le suivit dans l’escalier puis dans la galerie et à l’étage au-dessus. Alors il se leva. Il descendit vers les niveaux inférieurs, passa devant la salle des gardes, s’enfonça dans les profondeurs de la forteresse. Çà et là, quelques flambeaux fichés sur les parois donnaient aux caves creusées à même le rocher une lumière avare et lugubre. Il circula dans la forêt de piliers sur laquelle reposait toute la bâtisse pour arriver au fond, aux grilles énormes derrière lesquelles ses compagnons se trouvaient enfermés. Les enfants dormaient contre leur mère, blottis. Camperolle arpentait la pièce comme un fauve en cage. Wanolo et Tarano se tenaient sur un banc, unique meuble de ce cachot, et Bambrille était près d’eux. Quand elle vit Sidonel, elle vint coller son front aux barreaux.
 
-– Écoute-moi vite, Bambrille. Les gardes m’ont vu passer, ils ne vont pas tarder à descendre… Je vais vous délivrer d’ici peu. mais j`ai besoin de toi.
+– Écoute-moi vite, Bambrille. Les gardes m’ont vu passer, ils ne vont pas tarder à descendre… Je vais vous délivrer d’ici peu. mais j’ai besoin de toi.
 
 Elle le regarda avec une tendre pitié.
 
@@ -59,19 +59,19 @@ Elle le regarda avec une tendre pitié.
 
 – Si, je t’assure…
 
-– Je sais quelle est la seule issue possible : dire oui à Tikobal. C’est moi maintenant qui suis victime de son chantage et je ne veux pas que les autres meurent par ma faute… comme tu ne l`as pas voulu non plus.
+– Je sais quelle est la seule issue possible : dire oui à Tikobal. C’est moi maintenant qui suis victime de son chantage et je ne veux pas que les autres meurent par ma faute… comme tu ne l’as pas voulu non plus.
 
 – C’est l’affaire d’une semaine ou deux. Je t’en conjure, écoute-moi ou bien j’aurais perdu ma vie pour rien !
 
 Sidonel parlait avec un tel accent de désespoir que Bambrille, en larmes, promit tout ce qu'il voulut.
 
-– Fais encore patienter Barbe-d`Or. aussi longtemps que tu le pourras. Trouve des prétextes, mais ne lui cède pas. Pour votre sécurité, je préfère que vous ne sachiez rien de plus.
+– Fais encore patienter Barbe-d’Or. aussi longtemps que tu le pourras. Trouve des prétextes, mais ne lui cède pas. Pour votre sécurité, je préfère que vous ne sachiez rien de plus.
 
 – Sidonel je t’aimerai toujours, dit Bambrille en le serrant dans ses bras à travers la grille.
 
 Tarano, Camperolle s’approchèrent. Sidonel les caressa, les embrassa et s’enfuit. de peur de dévoiler son secret. Il ne voulait prendre aucun risque. personne ne devait savoir.
 
-Jour après jour, Bambrille repoussait l’offre de Barbe-d`Or, promettant une réponse pour le lendemain. Une semaine passa ainsi, sans que rien n’advînt. Sidonel sentait Bambrille fléchir, car dans la geôle, Wanolo ne se levait plus.
+Jour après jour, Bambrille repoussait l’offre de Barbe-d’Or, promettant une réponse pour le lendemain. Une semaine passa ainsi, sans que rien n’advînt. Sidonel sentait Bambrille fléchir, car dans la geôle, Wanolo ne se levait plus.
 
 A la fin, excédé, Tikobal s’écria :
 

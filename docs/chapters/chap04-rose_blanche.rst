@@ -67,7 +67,7 @@ Un instant surpris de son apparition, Tikobal eut un sourire fugitif et s’excl
 
 – Bien sûr l Je m”en souviens ! Va vite, car je t’ai attendu avec une grande impatience.
 
-Son ricanement suivit Sidonel tandis qu`il s’éloignait la mort dans l’âme.
+Son ricanement suivit Sidonel tandis qu’il s’éloignait la mort dans l’âme.
 
 « A quoi bon ramener cette rose, cela n’a servi à rien, songeait-il avec douleur. Le futur est pire que tout ce que je pouvais craindre. » Ô Bambrille ! Bambrille si menue et si droite près du grand homme blanc, Bambrille enfermée dans sa détresse. Mais les autres, où étaient-ils ? Sidonel résista au désir d’en savoir plus. Pour conserver l’espoir, il ne fallait pas qu'il sache, sinon comment vivre et retourner vers l’hiver, vers leur attente ?
 
@@ -109,19 +109,19 @@ Barbe-d’Or partit d’un rire énorme et triomphant.
 
 – Étrange pouvoir ! murmura Barbe-d’Or rêveur. comme il est heureux que j« n profite par ton fils interposé !
 
-Le sarak frissonna en scrutant le visage de Sidonel. Oui, c`était bien cela, un léger pli s’amorçait autour des lèvres, au contour des yeux. La lassitude esquissait maintenant quelques traits de part et d’autre du nez, un sillon à peine visible creusait son chemin le long des joues.
+Le sarak frissonna en scrutant le visage de Sidonel. Oui, c’était bien cela, un léger pli s’amorçait autour des lèvres, au contour des yeux. La lassitude esquissait maintenant quelques traits de part et d’autre du nez, un sillon à peine visible creusait son chemin le long des joues.
 
 – Que se produirait-il. demanda Barbe-d’Or avec lenteur, si l’homme tombait du fil du temps ?
 
-– il serait rayé de notre mémoire. comme s’il n’avait jamais existé, répondit Wanolo, parce que Tarano pleurait en silence.
+– Il serait rayé de notre mémoire. comme s’il n’avait jamais existé, répondit Wanolo, parce que Tarano pleurait en silence.
 
-« Il me reste cette issue », pensa Sidonel, et l`horreur d’une telle solution le glaça. Mourir pour les siens, soit, mais s’anéantir jusque dans la mémoire des êtres aimés, quel homme pourrait y consentir ?
+« Il me reste cette issue », pensa Sidonel, et l’horreur d’une telle solution le glaça. Mourir pour les siens, soit, mais s’anéantir jusque dans la mémoire des êtres aimés, quel homme pourrait y consentir ?
 
-« S`il n’y a pas d’autre voie, je le ferai ». décida Sidonel avec désespoir.
+« S’il n’y a pas d’autre voie, je le ferai ». décida Sidonel avec désespoir.
 
 D’un geste plein de rage, Tarano détruisit le fil merveilleux dont le tintement cristallin résonna un instant dans la salle.
 
-– Allez dans votre appartement, je l`ai fait préparer. Vous y serez bien, dit enfin Tikobal et il quitta la pièce, abandonnant les baladins à leurs tristes pensées.
+– Allez dans votre appartement, je l’ai fait préparer. Vous y serez bien, dit enfin Tikobal et il quitta la pièce, abandonnant les baladins à leurs tristes pensées.
 
 – Sauvons-nous ! supplia Bambrille.
 
